@@ -1,0 +1,1001 @@
+id;label;timeset;modularity_class;componentnumber;strongcompnum;lastsale;marketcap;adr tso;ipoyear;sector;industry;summary quote;indegree;outdegree;degree
+AAXJ;iShares MSCI All Country Asia ex Japan Index Fund;;0;0;3;60.62;3031000000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/aaxj;12;3;15
+AHPI;Allied Healthcare Products, Inc.;;0;0;2;0.558;4479148.026;n/a;n/a;Health Care;Industrial Specialties;http://www.nasdaq.com/symbol/ahpi;2;0;2
+EEI;Ecology and Environment, Inc.;;0;0;1;10.11;43368381.72;n/a;n/a;Consumer Services;Military/Government/Technical;http://www.nasdaq.com/symbol/eei;3;0;3
+MCEP;Mid-Con Energy Partners, LP;;0;0;0;2.49;74481452.7;n/a;n/a;Energy;Oil & Gas Production;http://www.nasdaq.com/symbol/mcep;4;0;4
+ABCB;Ameris Bancorp;;7;0;7;35.67;1243923477;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/abcb;1;3;4
+BABY;Natus Medical Incorporated;;7;0;6;43.98;1449175788.18;n/a;n/a;Health Care;Biotechnology: Electromedical & Electrotherapeutic Apparatus;http://www.nasdaq.com/symbol/baby;1;0;1
+FEYE;FireEye, Inc.;;7;0;5;14.37;2438262312.42;n/a;n/a;Technology;Computer peripheral equipment;http://www.nasdaq.com/symbol/feye;7;0;7
+FMBH;First Mid-Illinois Bancshares, Inc.;;7;0;4;26.22;258100555.44;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/fmbh;19;0;19
+ACAD;ACADIA Pharmaceuticals Inc.;;0;0;11;34.95;3984497956.8;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/acad;6;3;9
+BBBY;Bed Bath & Beyond Inc.;;0;0;10;43.5;6719105961;n/a;n/a;Consumer Services;Home Furnishings;http://www.nasdaq.com/symbol/bbby;5;0;5
+SGC;Superior Uniform Group, Inc.;;0;0;9;19.86;286152214.2;n/a;n/a;Consumer Non-Durables;Apparel;http://www.nasdaq.com/symbol/sgc;2;0;2
+ZIONW;Zions Bancorporation;;0;0;8;3.85;0;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/zionw;3;0;3
+ACWI;iShares MSCI ACWI Index Fund;;0;0;467;59.13;5309874000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/acwi;40;70;110
+ADRA;BLDRS Asia 50 ADR Index Fund;;0;0;203;28.57;22856000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/adra;4;0;4
+ADRD;BLDRS Developed Markets 100 ADR Index Fund;;0;0;467;20.28;58812000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/adrd;22;12;34
+ADRE;BLDRS Emerging Markets 50 ADR Index Fund;;0;0;145;34.95;131062500;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/adre;10;4;14
+BYFC;Broadway Financial Corporation;;0;0;466;1.7134;49820031.4872;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/byfc;1;0;1
+CCXI;ChemoCentryx, Inc.;;0;0;201;5.2;248364282.4;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/ccxi;2;0;2
+CEVA;CEVA, Inc.;;0;0;465;35.79;750174290.76;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/ceva;1;0;1
+CFNL;Cardinal Financial Corporation;;7;0;467;25.98;843289470.42;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/cfnl;17;34;51
+CHUY;"Chuy&#39;s Holdings, Inc.";;0;0;178;29.5;495443178;n/a;n/a;Consumer Services;Restaurants;http://www.nasdaq.com/symbol/chuy;3;0;3
+CIGI;"Colliers International Group Inc. ";;0;0;270;41.62;1551221808.54;n/a;n/a;Finance;Real Estate;http://www.nasdaq.com/symbol/cigi;3;0;3
+CIVBP;"Civista Bancshares, Inc. ";;0;0;467;45.32;0;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/civbp;4;8;12
+CSPI;CSP Inc.;;0;0;169;9.789;37298409.993;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/cspi;4;0;4
+DGRE;WisdomTree Emerging Markets Quality Dividend Growth Fund;;0;0;167;23.36;37376000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/dgre;7;2;9
+DGRS;WisdomTree U.S. SmallCap Quality Dividend Growth Fund;;0;0;467;30.8399;64763790;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/dgrs;25;7;32
+DXCM;DexCom, Inc.;;0;0;318;93.91;7877510472.47;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/dxcm;3;0;3
+ETRM;EnteroMedics Inc.;;0;0;111;0.1344;3668436.8448;n/a;n/a;Health Care;Biotechnology: Electromedical & Electrotherapeutic Apparatus;http://www.nasdaq.com/symbol/etrm;8;0;8
+FDML;Federal-Mogul Holdings Corporation;;0;0;162;9.8;1656598379.8;n/a;n/a;Capital Goods;Auto Parts:O.E.M.;http://www.nasdaq.com/symbol/fdml;3;0;3
+FEMS;First Trust Emerging Markets Small Cap AlphaDEX Fund;;0;0;140;33.16;97822066.32;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fems;7;0;7
+FEUZ;First Trust Eurozone AlphaDEX ETF;;0;0;467;32.425;8106314.85;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/feuz;8;7;15
+FLDM;Fluidigm Corporation;;0;0;158;8.57;248843019.25;n/a;n/a;Capital Goods;Biotechnology: Laboratory Analytical Instruments;http://www.nasdaq.com/symbol/fldm;3;0;3
+FNSR;Finisar Corporation;;0;0;156;29.22;3221112721.5;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/fnsr;12;0;12
+FNX;First Trust Mid Cap Core AlphaDEX Fund;;0;0;467;52.8577;644864045.7154;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fnx;36;43;79
+FSZ;First Trust Switzerland AlphaDEX Fund;;0;0;467;41.3;121835082.6;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fsz;10;1;11
+FTAG;First Trust Indxx Global Agriculture ETF;;0;0;136;21.4;4064459.2;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ftag;10;0;10
+FTC;First Trust Large Cap Growth AlphaDEX Fund;;0;0;467;50.58;612018101.16;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ftc;27;70;97
+FUNC;First United Corporation;;0;0;153;10.7898;67641299.3592;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/func;8;0;8
+FUND;Sprott Focus Trust, Inc.;;0;0;79;6.89;165371182.47;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fund;30;0;30
+FXCM;FXCM Inc.;;0;0;135;8.84;49526621.56;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/fxcm;13;0;13
+FYC;First Trust Small Cap Growth AlphaDEX Fund;;0;0;467;33.96;62826067.92;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fyc;35;14;49
+FYT;First Trust Small Cap Value AlphaDEX Fund;;0;0;467;30.79;56961561.58;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fyt;15;13;28
+IFEU;iShares FTSE EPRA/NAREIT Europe Index Fund;;0;0;149;37.2221;74444200;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ifeu;5;0;5
+IFON;InfoSonics Corp;;0;0;138;0.51;7338251.28;n/a;n/a;Consumer Non-Durables;Electronic Components;http://www.nasdaq.com/symbol/ifon;5;0;5
+IFV;First Trust Dorsey Wright International Focus 5 ETF;;0;0;467;17.64;452466035.28;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ifv;18;14;32
+IPHS;Innophos Holdings, Inc.;;0;0;137;37.85;735436476.5;n/a;n/a;Consumer Durables;Specialty Chemicals;http://www.nasdaq.com/symbol/iphs;6;0;6
+IVAC;Intevac, Inc.;;0;0;27;6.05;126588251.9;n/a;n/a;Technology;Industrial Machinery/Components;http://www.nasdaq.com/symbol/ivac;16;0;16
+JKHY;Jack Henry & Associates, Inc.;;0;0;25;87.21;6849118368.09;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/jkhy;18;1;19
+LMBS;First Trust Low Duration Opportunities ETF;;0;0;304;52.4;162440104.8;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/lmbs;3;0;3
+ONCS;OncoSec Medical Incorporated;;0;0;131;1.78;31392548.14;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/oncs;11;0;11
+PPC;"Pilgrim&#39;s Pride Corporation";;0;0;146;20.96;5334627839.52;n/a;n/a;Consumer Non-Durables;Meat/Poultry/Fish;http://www.nasdaq.com/symbol/ppc;6;0;6
+PRFT;Perficient, Inc.;;0;0;128;19.79;714496161.21;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/prft;17;0;17
+PRFZ;PowerShares FTSE RAFI US 1500 Small-Mid Portfolio;;0;0;467;104.92;1468880000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/prfz;22;25;47
+PSCH;PowerShares S&P SmallCap Health Care Portfolio;;0;0;467;76.07;201585500;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/psch;20;18;38
+QNST;QuinStreet, Inc.;;0;0;30;3.11;142283915.05;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/qnst;20;0;20
+QQEW;First Trust NASDAQ-100 Equal Weighted Index Fund;;0;0;467;45.47;375127590.94;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/qqew;31;30;61
+QQQC;Global X NASDAQ China Technology ETF;;0;0;124;24.186;19348800;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/qqqc;9;0;9
+QQQX;Nuveen NASDAQ 100 Dynamic Overwrite Fund;;0;0;113;18.68;683023253.52;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/qqqx;26;2;28
+QSII;Quality Systems, Inc.;;0;0;120;11.48;706094424.84;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/qsii;23;0;23
+RDUS;Radius Health, Inc.;;0;0;29;56.5;2434174810;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/rdus;17;0;17
+RNWK;RealNetworks, Inc.;;0;0;119;4.34;159709986.24;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/rnwk;12;0;12
+SCOR;comScore, Inc.;;0;0;38;31.06;1209923353.4;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/scor;6;0;6
+SCYX;SCYNEXIS, Inc.;;0;0;23;3.93;92059232.13;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/scyx;13;0;13
+SKYW;SkyWest, Inc.;;0;0;24;26.38;1359662105.62;n/a;n/a;Transportation;Air Freight/Delivery Services;http://www.nasdaq.com/symbol/skyw;26;0;26
+TCX;Tucows Inc.;;0;0;32;29.52;307744937.28;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/tcx;25;0;25
+TOWN;Towne Bank;;0;0;35;23.6;1219342144;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/town;31;0;31
+VALU;Value Line, Inc.;;0;0;33;16;155547600;n/a;n/a;Finance;Investment Managers;http://www.nasdaq.com/symbol/valu;31;0;31
+VICR;Vicor Corporation;;0;0;22;11.86;460447397.88;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/vicr;14;0;14
+VNOM;Viper Energy Partners LP;;0;0;21;16.2;1405238608.8;n/a;n/a;Energy;Oil & Gas Production;http://www.nasdaq.com/symbol/vnom;20;0;20
+VOD;Vodafone Group Plc;;0;0;31;29.15;11660928689.85;400031859;n/a;Public Utilities;Telecommunications Equipment;http://www.nasdaq.com/symbol/vod;24;0;24
+VONE;Vanguard Russell 1000 ETF;;0;0;467;99.22;687098500;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vone;24;58;82
+VONG;Vanguard Russell 1000 Growth ETF;;0;0;467;106.8801;726967551.8511;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vong;27;107;134
+VRSK;Verisk Analytics, Inc.;;0;0;20;81.32;13740658209.08;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/vrsk;11;0;11
+VTGN;VistaGen Therapeutics, Inc.;;0;0;19;4.34;34592859.7;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/vtgn;25;0;25
+VTWG;Vanguard Russell 2000 Growth ETF;;0;0;467;108.8274;149637675;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vtwg;32;66;98
+VTWO;Vanguard Russell 2000 ETF;;0;0;467;99.8;698600000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vtwo;25;105;130
+VTWV;Vanguard Russell 2000 Value ETF;;0;0;467;90.9436;122773860;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vtwv;35;11;46
+VWR;VWR Corporation;;0;0;15;28.43;3737906718.07;n/a;n/a;Consumer Durables;Diversified Electronic Products;http://www.nasdaq.com/symbol/vwr;26;0;26
+WMIH;WMIH Corp.;;0;0;14;2.29;472612032;n/a;n/a;Finance;Finance: Consumer Services;http://www.nasdaq.com/symbol/wmih;9;0;9
+WPCS;WPCS International Incorporated;;0;0;13;1.29;3674770.11;n/a;n/a;Consumer Services;Telecommunications Equipment;http://www.nasdaq.com/symbol/wpcs;7;0;7
+XGTIW;XG Technology, Inc;;0;0;12;0.44;0;n/a;n/a;Consumer Durables;Telecommunications Equipment;http://www.nasdaq.com/symbol/xgtiw;11;0;11
+ACWX;iShares MSCI ACWI ex US Index Fund;;0;0;467;41.58;1937628000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/acwx;23;70;93
+AIRM;Air Methods Corporation;;0;0;202;32.46;1236250688.22;n/a;n/a;Transportation;Transportation Services;http://www.nasdaq.com/symbol/airm;1;0;1
+BRKL;Brookline Bancorp, Inc.;;7;0;200;12.04;849019249.96;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/brkl;12;0;12
+CARV;Carver Bancorp, Inc.;;0;0;142;4.5;16632391.5;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/carv;3;0;3
+DAVE;"Famous Dave&#39;s of America, Inc.";;9;0;168;5.34;37153733.52;n/a;n/a;Consumer Services;Restaurants;http://www.nasdaq.com/symbol/dave;2;0;2
+DGLY;Digital Ally, Inc.;;0;0;144;6.02;32378455.62;n/a;n/a;Technology;Radio And Television Broadcasting And Communications Equipment;http://www.nasdaq.com/symbol/dgly;2;0;2
+DXPE;DXP Enterprises, Inc.;;0;0;164;25.22;368457718.46;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/dxpe;3;0;3
+EMCI;EMC Insurance Group Inc.;;0;0;163;28.08;591301086.48;n/a;n/a;Finance;Property-Casualty Insurers;http://www.nasdaq.com/symbol/emci;2;0;2
+FELE;Franklin Electric Co., Inc.;;0;0;143;39.69;1834234731.63;n/a;n/a;Consumer Durables;Metal Fabrications;http://www.nasdaq.com/symbol/fele;4;0;4
+FES;Forbes Energy Services Ltd;;9;0;161;0.14;3110079.7;n/a;n/a;Energy;Oilfield Services/Equipment;http://www.nasdaq.com/symbol/fes;2;0;2
+FGEN;FibroGen, Inc;;0;0;139;22.165;1391699544.235;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/fgen;4;0;4
+FIZZ;National Beverage Corp.;;0;0;160;49.99;2327471912.5;n/a;n/a;Consumer Non-Durables;Beverages (Production/Distribution);http://www.nasdaq.com/symbol/fizz;2;0;2
+FKO;First Trust South Korea AlphaDEX Fund;;0;0;159;25;16250050;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fko;2;0;2
+FNJN;Finjan Holdings, Inc.;;0;0;157;1.78;40695974.46;n/a;n/a;Miscellaneous;Multi-Sector Companies;http://www.nasdaq.com/symbol/fnjn;4;0;4
+FOXF;Fox Factory Holding Corp.;;0;0;155;22.42;821723468.78;n/a;n/a;Consumer Non-Durables;Motor Vehicles;http://www.nasdaq.com/symbol/foxf;1;0;1
+FSTR;L.B. Foster Company;;0;0;154;11.49;119309459.85;n/a;n/a;Basic Industries;Metal Fabrications;http://www.nasdaq.com/symbol/fstr;2;0;2
+HPJ;Highpower International Inc;;0;0;152;3.08;46513171.32;n/a;n/a;Miscellaneous;Industrial Machinery/Components;http://www.nasdaq.com/symbol/hpj;2;0;2
+ICFI;ICF International, Inc.;;0;0;151;45;853753410;n/a;n/a;Consumer Services;Professional Services;http://www.nasdaq.com/symbol/icfi;3;0;3
+IEUS;iShares MSCI Europe Small-Cap ETF;;0;0;150;45.645;57056250;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ieus;2;0;2
+MPET;Magellan Petroleum Corporation;;0;0;148;5.25;30867952.5;n/a;n/a;Energy;Oil & Gas Production;http://www.nasdaq.com/symbol/mpet;3;0;3
+NDRM;NeuroDerm Ltd.;;9;0;147;17.37;377005879.62;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/ndrm;2;0;2
+QBAK;Qualstar Corporation;;0;0;125;3.89;7943457.8;n/a;n/a;Technology;Electronic Components;http://www.nasdaq.com/symbol/qbak;9;0;9
+SNSS;Sunesis Pharmaceuticals, Inc.;;0;0;117;4.41;63955553.13;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/snss;5;0;5
+ADI;Analog Devices, Inc.;;0;0;223;63.23;19441593476.31;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/adi;5;4;9
+MVIS;Microvision, Inc.;;0;0;222;1.3773;71287670.7;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/mvis;1;0;1
+SORL;SORL Auto Parts, Inc.;;0;0;122;3.72;71814306.12;n/a;n/a;Capital Goods;Auto Parts:O.E.M.;http://www.nasdaq.com/symbol/sorl;14;0;14
+XIV;VelocityShares Daily Inverse VIX Short Term ETN;;0;0;204;38.09;657200403.47;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/xiv;6;1;7
+ADP;Automatic Data Processing, Inc.;;0;0;467;88.46;40353413085.46;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/adp;7;18;25
+CENX;Century Aluminum Company;;9;0;271;6.58;572957362.46;n/a;n/a;Basic Industries;Aluminum;http://www.nasdaq.com/symbol/cenx;2;0;2
+JAZZ;Jazz Pharmaceuticals plc;;0;0;269;127.18;7698473622.62;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/jazz;3;0;3
+PATK;Patrick Industries, Inc.;;0;0;130;61.67;945119514.78;n/a;n/a;Basic Industries;Forest Products;http://www.nasdaq.com/symbol/patk;6;0;6
+PDCE;PDC Energy, Inc.;;0;0;268;65.02;3065985134.86;n/a;n/a;Energy;Oil & Gas Production;http://www.nasdaq.com/symbol/pdce;1;0;1
+SNMX;Senomyx, Inc.;;0;0;37;4.52;202329822.2;n/a;n/a;Health Care;Biotechnology: Commercial Physical & Biological Resarch;http://www.nasdaq.com/symbol/snmx;10;0;10
+ADRU;BLDRS Europe 100 ADR Index Fund;;0;0;467;19.74;14805000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/adru;9;18;27
+AGIO;Agios Pharmaceuticals, Inc.;;0;0;361;53.03;2017598895.04;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/agio;2;2;4
+CMPR;Cimpress N.V;;0;0;106;100.24;3166884525.28;n/a;n/a;Miscellaneous;Publishing;http://www.nasdaq.com/symbol/cmpr;2;0;2
+AIA;iShares Asia 50 ETF;;0;0;467;49.82;358704000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/aia;9;6;15
+AIRR;First Trust RBA American Industrial Renaissance ETF;;0;0;467;20;20000040;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/airr;14;2;16
+ALGT;Allegiant Travel Company;;1;1;469;133.73;2204301545.52;n/a;n/a;Transportation;Air Freight/Delivery Services;http://www.nasdaq.com/symbol/algt;0;1;1
+SKYS;Sky Solar Holdings, Ltd.;;1;1;468;2.91;38653596.93;13283023;n/a;Public Utilities;Electric Utilities: Central;http://www.nasdaq.com/symbol/skys;1;0;1
+ALNY;Alnylam Pharmaceuticals, Inc.;;0;0;238;75.57;6478210818.09;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/alny;6;2;8
+RAND;Rand Capital Corporation;;0;0;229;3.44;21770170.72;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/rand;3;0;3
+ALOG;Analogic Corporation;;0;0;471;92.24;1141550802.24;n/a;n/a;Capital Goods;Electrical Products;http://www.nasdaq.com/symbol/alog;0;6;6
+FAB;First Trust Multi Cap Value AlphaDEX Fund;;0;0;467;45.31;104213090.62;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fab;17;6;23
+GROW;U.S. Global Investors, Inc.;;9;0;470;1.87;28498319.41;n/a;n/a;Finance;Investment Managers;http://www.nasdaq.com/symbol/grow;2;0;2
+PSCF;PowerShares S&P SmallCap Financials Portfolio;;0;0;467;45.2959;203831550;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/pscf;9;34;43
+AMGN;Amgen Inc.;;0;0;467;174.8;130813486368.8;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/amgn;8;31;39
+AZPN;Aspen Technology, Inc.;;0;0;266;46.55;3711783138.7;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/azpn;6;0;6
+BBGI;Beasley Broadcast Group, Inc.;;0;0;108;5.45;127076380.15;n/a;n/a;Consumer Services;Broadcasting;http://www.nasdaq.com/symbol/bbgi;2;0;2
+BBOX;Black Box Corporation;;0;0;81;14.06;212986546.18;n/a;n/a;Technology;Computer Communications Equipment;http://www.nasdaq.com/symbol/bbox;3;0;3
+BHBK;Blue Hills Bancorp, Inc.;;0;0;75;15;410045130;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/bhbk;4;0;4
+CECO;Career Education Corporation;;0;0;71;6.89;471676515.7;n/a;n/a;Consumer Services;Other Consumer Services;http://www.nasdaq.com/symbol/ceco;3;0;3
+CLDCW;China Lending Corporation;;0;0;107;0.2099;0;n/a;n/a;Finance;Diversified Financial Services;http://www.nasdaq.com/symbol/cldcw;2;0;2
+CYNA;Cynapsus Therapeutics Inc.;;0;0;358;40.2;494965153.2;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/cyna;1;0;1
+DXGE;WisdomTree Germany Hedged Equity Fund;;0;0;349;26.45;149442500;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/dxge;2;0;2
+EKSO;Ekso Bionics Holdings, Inc.;;0;0;357;3.5;57514856;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/ekso;1;0;1
+IART;Integra LifeSciences Holdings Corporation;;0;0;69;86.89;3246255061.46;n/a;n/a;Capital Goods;Biotechnology: Laboratory Analytical Instruments;http://www.nasdaq.com/symbol/iart;8;0;8
+INWK;InnerWorkings, Inc.;;0;0;77;8.9;487405616.4;n/a;n/a;Consumer Durables;Containers/Packaging;http://www.nasdaq.com/symbol/inwk;5;0;5
+JJSF;J & J Snack Foods Corp.;;0;0;134;119.44;2228482496.08;n/a;n/a;Consumer Non-Durables;Specialty Foods;http://www.nasdaq.com/symbol/jjsf;5;2;7
+NCTY;The9 Limited;;0;0;286;1.82;34528184.6;18971530;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/ncty;3;0;3
+NKSH;National Bankshares, Inc.;;0;0;356;35.01;243598669.74;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/nksh;1;0;1
+PTIE;Pain Therapeutics;;0;0;92;2.74;126428901.9;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/ptie;4;0;4
+REGI;Renewable Energy Group, Inc.;;0;0;76;8.27;319876992.27;n/a;n/a;Basic Industries;Major Chemicals;http://www.nasdaq.com/symbol/regi;3;0;3
+SWIR;Sierra Wireless, Inc.;;0;0;110;14.15;453504486.05;n/a;n/a;Technology;Radio And Television Broadcasting And Communications Equipment;http://www.nasdaq.com/symbol/swir;1;0;1
+TSRI;TSR, Inc.;;0;0;84;7.8063;15316444.5906;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/tsri;4;0;4
+VRTU;Virtusa Corporation;;0;0;65;24.34;727017983.12;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/vrtu;4;0;4
+VTNR;Vertex Energy, Inc;;0;0;17;1.16;35970326.32;n/a;n/a;Energy;Integrated oil Companies;http://www.nasdaq.com/symbol/vtnr;28;0;28
+AMSG;Amsurg Corp.;;0;0;338;64.78;3550598666.68;n/a;n/a;Health Care;Medical/Nursing Services;http://www.nasdaq.com/symbol/amsg;3;1;4
+AMSGP;Amsurg Corp.;;0;0;472;122.9087;212017507.5;n/a;n/a;Health Care;Medical/Nursing Services;http://www.nasdaq.com/symbol/amsgp;0;1;1
+AMTD;TD Ameritrade Holding Corporation;;7;0;467;33.12;17432906944.32;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/amtd;6;4;10
+CBRL;Cracker Barrel Old Country Store, Inc.;;7;0;328;138.16;3307826443.68;n/a;n/a;Consumer Services;Restaurants;http://www.nasdaq.com/symbol/cbrl;2;0;2
+FISV;Fiserv, Inc.;;0;0;467;101.18;22240897888.8;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/fisv;12;5;17
+PACB;Pacific Biosciences of California, Inc.;;7;0;60;9.13;838822265.05;n/a;n/a;Capital Goods;Biotechnology: Laboratory Analytical Instruments;http://www.nasdaq.com/symbol/pacb;5;0;5
+ANSS;ANSYS, Inc.;;0;0;467;92.29;8049379306.54;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/anss;9;2;11
+CDC;Victory CEMP US EQ Income Enhanced Volatility Wtd Index ETF;;0;0;467;39.95;25967500;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/cdc;13;55;68
+APDNW;Applied DNA Sciences Inc;;2;2;474;1.1168;0;n/a;n/a;Consumer Services;Other Consumer Services;http://www.nasdaq.com/symbol/apdnw;0;1;1
+APDN;Applied DNA Sciences Inc;;2;2;473;3.06;73680626.16;n/a;n/a;Consumer Services;Other Consumer Services;http://www.nasdaq.com/symbol/apdn;1;0;1
+AROW;Arrow Financial Corporation;;0;0;353;33.46;462495864.46;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/arow;1;2;3
+DCIX;Diana Containerships Inc.;;0;0;320;3.5199;32950748.3526;n/a;n/a;Transportation;Marine Transportation;http://www.nasdaq.com/symbol/dcix;3;0;3
+NBN;Northeast Bancorp;;7;0;43;11.18;98733207.3;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/nbn;15;0;15
+AVGO;Broadcom Limited;;0;0;221;166.65;66214962174.9;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/avgo;6;2;8
+BANF;BancFirst Corporation;;7;0;467;71.51;1114399897.83;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/banf;11;12;23
+CFNB;California First National Bancorp;;7;0;194;14.5646;149721277.0322;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/cfnb;3;0;3
+COKE;Coca-Cola Bottling Co. Consolidated;;7;0;199;148.79;1385703439.71;n/a;n/a;Consumer Non-Durables;Beverages (Production/Distribution);http://www.nasdaq.com/symbol/coke;7;0;7
+HABT;The Habit Restaurants, Inc.;;7;0;188;14.29;371690859.53;n/a;n/a;Consumer Services;Restaurants;http://www.nasdaq.com/symbol/habt;6;0;6
+HOMB;Home BancShares, Inc.;;7;0;467;21.65;3039375107.65;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/homb;13;2;15
+IBCP;Independent Bank Corporation;;7;0;182;16.39;347848444.68;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ibcp;7;0;7
+IRWD;Ironwood Pharmaceuticals, Inc.;;7;0;63;15.73;2285861609.46;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/irwd;4;0;4
+TRS;TriMas Corporation;;7;0;44;17.8;809253966.8;n/a;n/a;Capital Goods;Industrial Specialties;http://www.nasdaq.com/symbol/trs;14;0;14
+UBSH;Union Bankshares Corporation;;7;0;467;27.28;1187581440.32;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ubsh;15;2;17
+WABC;Westamerica Bancorporation;;7;0;467;49.95;1280303864.55;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/wabc;17;4;21
+ZGNX;Zogenix, Inc.;;7;0;39;10.47;259561654.83;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/zgnx;19;0;19
+BANR;Banner Corporation;;7;0;197;44.04;1512815882.04;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/banr;8;1;9
+BBC;BioShares Biotechnology Clinical Trials Fund;;0;0;467;23.0499;25354890;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/bbc;7;40;47
+ACHN;Achillion Pharmaceuticals, Inc.;;0;0;364;8.7;1189123725.6;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/achn;1;0;1
+ACOR;Acorda Therapeutics, Inc.;;0;0;363;27.29;1259157871;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/acor;1;0;1
+AGEN;Agenus Inc.;;0;0;362;6.91;601165176.82;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/agen;1;0;1
+ALKS;Alkermes plc;;0;0;360;49.58;7514181334.74;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/alks;3;0;3
+AMAG;AMAG Pharmaceuticals, Inc.;;0;0;359;24.25;828235567;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/amag;1;0;1
+ARIA;ARIAD Pharmaceuticals, Inc.;;0;0;109;13.52;2605481625.76;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/aria;3;0;3
+CORI;Corium International, Inc.;;0;0;105;6;134154066;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/cori;1;0;1
+CYRX;CryoPort, Inc.;;0;0;104;1.96;29636138.84;n/a;n/a;Capital Goods;Containers/Packaging;http://www.nasdaq.com/symbol/cyrx;1;0;1
+ENT;Global Eagle Entertainment Inc.;;0;0;103;8.15;681658526.45;n/a;n/a;Consumer Services;Telecommunications Equipment;http://www.nasdaq.com/symbol/ent;1;0;1
+GGAL;Grupo Financiero Galicia S.A.;;0;0;102;30.29;1412997816.23;46648987;n/a;Finance;Commercial Banks;http://www.nasdaq.com/symbol/ggal;1;0;1
+INCR;INC Research Holdings, Inc.;;0;0;73;44.93;2457939861.12;n/a;n/a;Health Care;Biotechnology: Commercial Physical & Biological Resarch;http://www.nasdaq.com/symbol/incr;4;0;4
+INDY;iShares S&P India Nifty 50 Index Fund;;0;0;101;30.36;765072000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/indy;1;0;1
+INOD;Innodata Inc.;;0;0;68;2.36;60050367.56;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/inod;4;0;4
+IROQ;IF Bancorp, Inc.;;0;0;100;18.67;74755818.87;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/iroq;1;0;1
+KOSS;Koss Corporation;;0;0;99;2.1399;15798252.5694;n/a;n/a;Consumer Non-Durables;Consumer Electronics/Appliances;http://www.nasdaq.com/symbol/koss;1;0;1
+KTOS;Kratos Defense & Security Solutions, Inc.;;0;0;98;6.77;409151584.6;n/a;n/a;Capital Goods;Military/Government/Technical;http://www.nasdaq.com/symbol/ktos;1;0;1
+MDCA;MDC Partners Inc.;;0;0;97;11.5;574253592.5;n/a;n/a;Technology;Advertising;http://www.nasdaq.com/symbol/mdca;1;0;1
+MDSY;ModSys International Ltd.;;0;0;72;1.13;21114610.48;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/mdsy;3;0;3
+NAVI;Navient Corporation;;0;0;96;13.88;4400418123.28;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/navi;1;0;1
+NKTR;Nektar Therapeutics;;0;0;95;18.75;2563733437.5;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/nktr;2;0;2
+OMED;OncoMed Pharmaceuticals, Inc.;;0;0;94;12.04;369280200.52;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/omed;1;0;1
+PRSS;CafePress Inc.;;0;0;93;3.1;51737003.6;n/a;n/a;Consumer Services;Other Specialty Stores;http://www.nasdaq.com/symbol/prss;3;0;3
+RGLD;Royal Gold, Inc.;;0;0;91;81.42;5314240735.92;n/a;n/a;Basic Industries;Precious Metals;http://www.nasdaq.com/symbol/rgld;1;1;2
+STLY;Stanley Furniture Company, Inc.;;0;0;85;1.79;26370636.21;n/a;n/a;Consumer Durables;Home Furnishings;http://www.nasdaq.com/symbol/stly;1;0;1
+TGLS;Tecnoglass Inc.;;0;0;64;12.37;345321798.27;n/a;n/a;Consumer Durables;Electronic Components;http://www.nasdaq.com/symbol/tgls;3;0;3
+THFF;First Financial Corporation Indiana;;0;0;66;40.88;498152928.56;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/thff;3;1;4
+VRTX;Vertex Pharmaceuticals Incorporated;;0;0;83;90.63;22456183399.74;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/vrtx;1;1;2
+BBH;VanEck Vectors Biotech ETF;;0;0;467;118.57;616149360.71;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/bbh;11;16;27
+BIDU;Baidu, Inc.;;0;0;80;191.72;52536136267.6;274025330;n/a;Technology;Computer Software: Programming, Data Processing;http://www.nasdaq.com/symbol/bidu;1;0;1
+IKNX;Ikonics Corporation;;0;0;78;10.76;21721782.28;n/a;n/a;Miscellaneous;Industrial Machinery/Components;http://www.nasdaq.com/symbol/iknx;2;0;2
+BBP;BioShares Biotechnology Products Fund;;0;0;467;34.38;30942000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/bbp;5;8;13
+BMRC;Bank of Marin Bancorp;;0;0;74;49.79;304863522.73;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/bmrc;1;0;1
+BIB;ProShares Ultra Nasdaq Biotechnology;;0;0;467;51.54;502515000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/bib;11;12;23
+HALL;Hallmark Financial Services, Inc.;;0;0;70;10.23;190413731.64;n/a;n/a;Finance;Property-Casualty Insurers;http://www.nasdaq.com/symbol/hall;2;0;2
+OTEX;Open Text Corporation;;0;0;67;65.69;7979590404.98;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/otex;1;0;1
+BLKB;Blackbaud, Inc.;;0;0;475;66.28;3149538242.96;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/blkb;0;1;1
+BMRN;BioMarin Pharmaceutical Inc.;;0;0;467;97.4;15921570965.4;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/bmrn;1;9;10
+CCUR;Concurrent Computer Corporation;;0;0;240;5.855;56384393.585;n/a;n/a;Technology;Computer Manufacturing;http://www.nasdaq.com/symbol/ccur;1;0;1
+PGLC;Pershing Gold Corporation;;0;0;232;4.42;115833039.4;n/a;n/a;Basic Industries;Precious Metals;http://www.nasdaq.com/symbol/pglc;2;0;2
+BOKF;BOK Financial Corporation;;7;0;467;67.69;4458490997.73;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/bokf;7;11;18
+CATM;Cardtronics plc;;9;0;330;43.65;1974373526.25;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/catm;2;0;2
+FULLL;Full Circle Capital Corporation;;7;0;189;25.4579;0;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fulll;10;0;10
+HAWK;Blackhawk Network Holdings, Inc.;;7;0;187;31.04;1748141760;n/a;n/a;Finance;Finance: Consumer Services;http://www.nasdaq.com/symbol/hawk;9;0;9
+PULM;Pulmatrix, Inc.;;7;0;57;1.61;23589573.49;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/pulm;9;0;9
+TBRA;Tobira Therapeutics, Inc.;;7;0;53;39.11;736098344.41;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/tbra;8;8;16
+TRMB;Trimble Navigation Limited;;7;0;45;27.96;6966930623.4;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/trmb;23;0;23
+BPFH;Boston Private Financial Holdings, Inc.;;7;0;467;12.795;1067424691.89;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/bpfh;9;14;23
+FHK;First Trust Hong Kong AlphaDEX Fund;;7;0;193;36.47;9117572.94;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fhk;6;0;6
+IBKR;Interactive Brokers Group, Inc.;;7;0;181;36.21;14857268938.29;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/ibkr;6;0;6
+MBCN;Middlefield Banc Corp.;;7;0;61;33.725;75780445.975;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/mbcn;8;0;8
+ON;ON Semiconductor Corporation;;7;0;41;11.71;4866103088.25;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/on;17;0;17
+PZZA;"Papa John&#39;s International, Inc.";;7;0;40;82.15;3038246443.8;n/a;n/a;Consumer Services;Restaurants;http://www.nasdaq.com/symbol/pzza;22;0;22
+SWKS;Skyworks Solutions, Inc.;;7;0;54;74.77;14019080406.2;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/swks;21;0;21
+UMBF;UMB Financial Corporation;;7;0;467;59.22;2933156532.6;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/umbf;22;27;49
+VXUS;Vanguard Total International Stock ETF;;0;0;467;47.26;6483601999.3;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vxus;14;21;35
+BPOP;Popular, Inc.;;7;0;476;38.6;4004321192.6;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/bpop;0;1;1
+BSTC;BioSpecifics Technologies Corp;;3;3;478;45.26;317372850.9;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/bstc;0;1;1
+ZG;Zillow Group, Inc.;;3;3;477;35.02;6308587513.38;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/zg;1;0;1
+BUSE;First Busey Corporation;;7;0;218;23.26;888638042.34;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/buse;3;8;11
+FFHL;Fuwei Films (Holdings) Co., Ltd.;;7;0;217;0.5;6531250;n/a;n/a;Capital Goods;Specialty Chemicals;http://www.nasdaq.com/symbol/ffhl;4;0;4
+LJPC;La Jolla Pharmaceutical Company;;7;0;62;26.305;480171706.745;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/ljpc;4;0;4
+BWINB;Baldwin & Lyons, Inc.;;7;0;479;26.03;392636754.27;n/a;n/a;Finance;Property-Casualty Insurers;http://www.nasdaq.com/symbol/bwinb;0;1;1
+TGTX;TG Therapeutics, Inc.;;7;0;428;7.655;416865449.065;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/tgtx;2;0;2
+CA;CA Inc.;;0;0;467;32.64;13674484229.76;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/ca;8;14;22
+CSBR;Champions Oncology, Inc.;;0;0;219;1.7;18644734.7;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/csbr;1;0;1
+FISI;Financial Institutions, Inc.;;7;0;467;27.03;392700462.57;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/fisi;2;11;13
+CARZ;First Trust NASDAQ Global Auto Index Fund;;0;0;467;33.75;21937567.5;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/carz;6;7;13
+CASY;Caseys General Stores, Inc.;;4;4;481;117.93;4620512730.9;n/a;n/a;Consumer Durables;Automotive Aftermarket;http://www.nasdaq.com/symbol/casy;0;1;1
+UNB;Union Bankshares, Inc.;;4;4;480;34.2;152516097;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/unb;1;0;1
+CATY;Cathay General Bancorp;;7;0;467;31.07;2450245633.42;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/caty;31;12;43
+CUTR;Cutera, Inc.;;7;0;191;11.99;156939975.61;n/a;n/a;Health Care;Biotechnology: Electromedical & Electrotherapeutic Apparatus;http://www.nasdaq.com/symbol/cutr;7;0;7
+GASS;StealthGas, Inc.;;7;0;192;3.5;141811866;n/a;n/a;Transportation;Marine Transportation;http://www.nasdaq.com/symbol/gass;11;0;11
+PNBK;Patriot National Bancorp Inc.;;7;0;58;13.37;52924957.82;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/pnbk;7;0;7
+CBSH;Commerce Bancshares, Inc.;;7;0;467;49.34;4764453944.8;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/cbsh;10;42;52
+CSCO;Cisco Systems, Inc.;;0;0;467;31.34;157149849126.22;n/a;n/a;Technology;Computer Communications Equipment;http://www.nasdaq.com/symbol/csco;4;6;10
+EVOL;Evolving Systems, Inc.;;7;0;190;4.38;51707542.5;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/evol;3;0;3
+FFIC;Flushing Financial Corporation;;7;0;198;23.41;670262665.88;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ffic;12;0;12
+NVMI;Nova Measuring Instruments Ltd.;;7;0;327;12.2;330546031.4;n/a;n/a;Capital Goods;Electronic Components;http://www.nasdaq.com/symbol/nvmi;3;0;3
+PBBI;PB Bancorp, Inc.;;7;0;59;8.599;67763576.798;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/pbbi;12;0;12
+RNET;RigNet, Inc.;;7;0;326;13.61;242342980.84;n/a;n/a;Consumer Services;Telecommunications Equipment;http://www.nasdaq.com/symbol/rnet;2;0;2
+SBLKL;Star Bulk Carriers Corp.;;7;0;56;20.7381;0;n/a;n/a;Transportation;Marine Transportation;http://www.nasdaq.com/symbol/sblkl;6;0;6
+SITO;SITO Mobile, Ltd.;;7;0;55;4.23;73506909.6;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/sito;8;0;8
+UBOH;United Bancshares, Inc.;;7;0;214;19.3504;63793334.448;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/uboh;6;0;6
+UCBA;United Community Bancorp;;7;0;179;15.4466;64896202.1916;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/ucba;7;0;7
+ULTR;Ultrapetrol (Bahamas) Limited;;7;0;196;0.34;47848025.58;n/a;n/a;Transportation;Marine Transportation;http://www.nasdaq.com/symbol/ultr;6;0;6
+ACIW;ACI Worldwide, Inc.;;0;0;267;18.94;2219232793.48;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/aciw;2;0;2
+EGBN;Eagle Bancorp, Inc.;;7;0;265;49.82;1673412050.84;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/egbn;6;0;6
+FARO;FARO Technologies, Inc.;;0;0;264;35.88;598267569.12;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/faro;3;0;3
+FMI;Foundation Medicine, Inc.;;0;0;263;24.16;843846829.6;n/a;n/a;Health Care;Medical Specialities;http://www.nasdaq.com/symbol/fmi;3;0;3
+HDRA;Hydra Industries Acquisition Corp.;;0;0;262;9.94;99400000;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/hdra;2;0;2
+MITL;Mitel Networks Corporation;;0;0;261;7.35;893696540.1;n/a;n/a;Technology;Radio And Television Broadcasting And Communications Equipment;http://www.nasdaq.com/symbol/mitl;1;0;1
+NWS;News Corporation;;0;0;132;14.47;8395037760.9;n/a;n/a;Consumer Services;Newspapers/Magazines;http://www.nasdaq.com/symbol/nws;9;1;10
+PBSK;Poage Bankshares, Inc.;;0;0;260;19.1;72204532.2;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/pbsk;2;0;2
+SPLK;Splunk Inc.;;0;0;259;58.16;7825041992.08;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/splk;2;0;2
+STRT;Strattec Security Corporation;;0;0;258;37.94;137969454.98;n/a;n/a;Capital Goods;Auto Parts:O.E.M.;http://www.nasdaq.com/symbol/strt;1;0;1
+CELG;Celgene Corporation;;0;0;467;109.43;84820801839.86;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/celg;3;5;8
+CEMP;Cempra, Inc.;;0;0;239;25.21;1310696488.14;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/cemp;1;1;2
+CENT;Central Garden & Pet Company;;9;0;482;25.35;1289849143.05;n/a;n/a;Consumer Durables;Consumer Specialties;http://www.nasdaq.com/symbol/cent;3;1;4
+CENTA;Central Garden & Pet Company;;9;0;483;24.38;1240493968.74;n/a;n/a;Consumer Durables;Consumer Specialties;http://www.nasdaq.com/symbol/centa;1;1;2
+CFA;Victory CEMP US 500 Volatility Wtd Index ETF;;0;0;467;38.65;7730000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/cfa;8;4;12
+CFFN;Capitol Federal Financial, Inc.;;7;0;467;14.23;1954408279.06;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/cffn;2;1;3
+HTLD;Heartland Express, Inc.;;7;0;183;18.685;1556208159.075;n/a;n/a;Transportation;Trucking Freight/Courier Services;http://www.nasdaq.com/symbol/htld;3;0;3
+INCY;Incyte Corporation;;7;0;467;88.95;16722859556.1;n/a;n/a;Health Care;Biotechnology: Commercial Physical & Biological Resarch;http://www.nasdaq.com/symbol/incy;3;2;5
+PETX;Aratana Therapeutics, Inc.;;7;0;180;9.27;328304206.44;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/petx;1;0;1
+WTBA;West Bancorporation;;7;0;42;20.32;327813212.8;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/wtba;11;0;11
+CFO;Victory CEMP US 500 Enhanced Volatility Wtd Index ETF;;0;0;467;38.6201;27034070;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/cfo;29;181;210
+ADBE;Adobe Systems Incorporated;;0;0;335;107.48;53556305072.16;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/adbe;3;0;3
+AEIS;Advanced Energy Industries, Inc.;;0;0;334;46.19;1832633146.68;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/aeis;1;0;1
+AKAM;Akamai Technologies, Inc.;;0;0;333;52.2599;9131082336.8149;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/akam;4;0;4
+AMAT;Applied Materials, Inc.;;0;0;278;29.65;32048502830.4;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/amat;4;0;4
+AMNB;American National Bankshares, Inc.;;0;0;332;28.06;241573029.6;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/amnb;1;0;1
+AMZN;Amazon.com, Inc.;;0;0;285;805.75;381984756466.5;n/a;n/a;Consumer Services;Catalog/Specialty Distribution;http://www.nasdaq.com/symbol/amzn;4;0;4
+BGCP;BGC Partners, Inc.;;0;0;331;9.055;2505935618.575;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/bgcp;2;0;2
+BRKS;Brooks Automation, Inc.;;0;0;329;13.69;939670949.18;n/a;n/a;Technology;Industrial Machinery/Components;http://www.nasdaq.com/symbol/brks;1;0;1
+CGNT;Cogentix Medical, Inc.;;0;0;325;1.78;46536852.22;n/a;n/a;Health Care;Biotechnology: Electromedical & Electrotherapeutic Apparatus;http://www.nasdaq.com/symbol/cgnt;1;0;1
+CGNX;Cognex Corporation;;0;0;324;51.03;4343114107.08;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/cgnx;1;0;1
+CMCO;Columbus McKinnon Corporation;;0;0;323;17.25;348373479;n/a;n/a;Capital Goods;Construction/Ag Equipment/Trucks;http://www.nasdaq.com/symbol/cmco;1;0;1
+COLM;Columbia Sportswear Company;;0;0;322;57.18;3987955229.94;n/a;n/a;Consumer Non-Durables;Apparel;http://www.nasdaq.com/symbol/colm;1;0;1
+CSWC;Capital Southwest Corporation;;0;0;321;14.73;231527995.98;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/cswc;1;0;1
+CSX;CSX Corporation;;0;0;254;29.64;28039171609.8;n/a;n/a;Transportation;Railroads;http://www.nasdaq.com/symbol/csx;2;0;2
+DVCR;Diversicare Healthcare Services Inc.;;9;0;319;9.54;60687097.74;n/a;n/a;Health Care;Hospital/Nursing Management;http://www.nasdaq.com/symbol/dvcr;2;0;2
+ENTA;Enanta Pharmaceuticals, Inc.;;0;0;237;26.39;502357664.9;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/enta;2;0;2
+ESMC;Escalon Medical Corp.;;0;0;317;0.65;4892179.5;n/a;n/a;Health Care;Biotechnology: Electromedical & Electrotherapeutic Apparatus;http://www.nasdaq.com/symbol/esmc;1;0;1
+ESXB;Community Bankers Trust Corporation.;;0;0;316;5.44;119197472;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/esxb;1;0;1
+EZPW;EZCORP, Inc.;;0;0;252;10.11;545748830.01;n/a;n/a;Consumer Services;Other Specialty Stores;http://www.nasdaq.com/symbol/ezpw;2;0;2
+FLIC;The First of Long Island Corporation;;0;0;315;32.86;514918237.32;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/flic;1;0;1
+FOMX;Foamix Pharmaceuticals Ltd.;;0;0;314;10.19;312442030.08;n/a;n/a;Consumer Durables;Specialty Chemicals;http://www.nasdaq.com/symbol/fomx;1;0;1
+FOSL;Fossil Group, Inc.;;0;0;313;30.36;1461219361.8;n/a;n/a;Consumer Non-Durables;Consumer Specialties;http://www.nasdaq.com/symbol/fosl;1;0;1
+FOX;Twenty-First Century Fox, Inc.;;0;0;312;24.485;45604001777.235;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/fox;3;2;5
+GNMK;GenMark Diagnostics, Inc.;;0;0;311;11.7;503028513;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/gnmk;1;0;1
+GOOG;Alphabet Inc.;;0;0;244;786.9;540815750859.3;n/a;n/a;Technology;Computer Software: Programming, Data Processing;http://www.nasdaq.com/symbol/goog;3;2;5
+HSGX;Histogenics Corporation;;0;0;235;3.255;43208194.785;n/a;n/a;Health Care;Industrial Specialties;http://www.nasdaq.com/symbol/hsgx;3;0;3
+INTLL;INTL FCStone Inc.;;0;0;310;25.35;0;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/intll;1;0;1
+ISIG;Insignia Systems, Inc.;;0;0;309;2.3101;26901652.7533;n/a;n/a;Consumer Services;Advertising;http://www.nasdaq.com/symbol/isig;1;0;1
+JBSS;John B. Sanfilippo & Son, Inc.;;0;0;308;52.45;587714890.45;n/a;n/a;Consumer Non-Durables;Specialty Foods;http://www.nasdaq.com/symbol/jbss;1;0;1
+LBRDK;Liberty Broadband Corporation;;9;0;307;72.28;13129379674.32;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/lbrdk;1;2;3
+LMCA;Liberty Media Corporation;;0;0;226;29.1592;0;n/a;n/a;Consumer Services;Broadcasting;http://www.nasdaq.com/symbol/lmca;7;2;9
+LUNA;Luna Innovations Incorporated;;0;0;303;1.51;41816091.76;n/a;n/a;Health Care;Biotechnology: Commercial Physical & Biological Resarch;http://www.nasdaq.com/symbol/luna;2;0;2
+MAMS;MAM Software Group, Inc.;;0;0;175;5.99;74698324.95;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/mams;2;0;2
+MCHI;iShares MSCI China ETF;;0;0;467;49.09;2199232000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/mchi;2;2;4
+MEMP;Memorial Production Partners LP;;0;0;302;1.6;133574584;n/a;n/a;Energy;Oil & Gas Production;http://www.nasdaq.com/symbol/memp;2;0;2
+MKSI;MKS Instruments, Inc.;;0;0;301;49.07;2628725584.17;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/mksi;2;0;2
+MSFG;MainSource Financial Group, Inc.;;0;0;300;24.55;589367701.05;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/msfg;1;1;2
+OXLCO;Oxford Lane Capital Corp.;;7;0;184;25.719;0;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/oxlco;2;0;2
+PNNT;PennantPark Investment Corporation;;0;0;211;7.525;534732790.9;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/pnnt;4;0;4
+PSAU;PowerShares Global Gold & Precious Metals Portfolio;;0;0;90;23.03;47211500;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/psau;2;3;5
+PSCE;PowerShares S&P SmallCap Energy Portfolio;;5;0;467;16.7258;45159660;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/psce;2;5;7
+PSCM;PowerShares S&P SmallCap Materials Portfolio;;0;0;467;39.6522;17843490;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/pscm;6;2;8
+PSMT;PriceSmart, Inc.;;0;0;294;81.2;2468007010;n/a;n/a;Consumer Services;Department/Specialty Retail Stores;http://www.nasdaq.com/symbol/psmt;2;0;2
+QGEN;Qiagen N.V.;;0;0;293;26.67;6243287620.08;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/qgen;2;0;2
+ROIAK;Radio One, Inc.;;0;0;292;3;145689966;n/a;n/a;Consumer Services;Broadcasting;http://www.nasdaq.com/symbol/roiak;1;0;1
+RPXC;RPX Corporation;;0;0;291;10.455;518148754.5;n/a;n/a;Miscellaneous;Multi-Sector Companies;http://www.nasdaq.com/symbol/rpxc;1;0;1
+SEED;Origin Agritech Limited;;0;0;123;2.3;52609144.3;n/a;n/a;Consumer Non-Durables;Farming/Seeds/Milling;http://www.nasdaq.com/symbol/seed;3;0;3
+SIR;Select Income REIT;;0;0;225;27.41;2450084759.89;n/a;n/a;Consumer Services;Real Estate Investment Trusts;http://www.nasdaq.com/symbol/sir;2;0;2
+TCBIW;Texas Capital Bancshares, Inc.;;7;0;290;37.61;0;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/tcbiw;3;0;3
+TEAR;TearLab Corporation;;0;0;36;0.6871;36031212.7437;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/tear;2;0;2
+TRIL;Trillium Therapeutics Inc.;;0;0;289;16.085;125702393.055;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/tril;1;0;1
+TROVW;TrovaGene, Inc.;;0;0;209;1.45;0;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/trovw;3;0;3
+TTEC;TeleTech Holdings, Inc.;;0;0;208;29.21;1379975420.13;n/a;n/a;Technology;Professional Services;http://www.nasdaq.com/symbol/ttec;2;0;2
+TWOU;2U, Inc.;;0;0;121;37.41;1753786748.19;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/twou;7;0;7
+VGSH;Vanguard Short-Term Government ETF;;9;0;288;61.19;899336475.98;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vgsh;2;0;2
+VIA;Viacom Inc.;;0;0;115;39.7;15747243874.9;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/via;5;1;6
+WCFB;WCF Bancorp, Inc.;;0;0;287;8.54;21889932.96;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/wcfb;1;0;1
+WOOD;iShares S&P Global Timber & Forestry Index Fund;;0;0;467;50.53;194035200;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/wood;1;11;12
+WVVI;Willamette Valley Vineyards, Inc.;;0;0;127;8;40002952;n/a;n/a;Consumer Non-Durables;Beverages (Production/Distribution);http://www.nasdaq.com/symbol/wvvi;2;0;2
+CHFC;Chemical Financial Corporation;;7;0;467;44.77;1713280162.99;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/chfc;7;40;47
+BDGE;Bridge Bancorp, Inc.;;7;0;375;28.76;502456929.36;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/bdge;1;0;1
+COB;CommunityOne Bancorp;;7;0;374;13.83;336050191.2;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/cob;1;0;1
+CTAS;Cintas Corporation;;0;0;467;114.17;11897369247.47;n/a;n/a;Consumer Non-Durables;Apparel;http://www.nasdaq.com/symbol/ctas;7;4;11
+SANW;S&W Seed Company;;7;0;373;4.97;0;n/a;n/a;Consumer Non-Durables;Farming/Seeds/Milling;http://www.nasdaq.com/symbol/sanw;2;0;2
+SQQQ;ProShares UltraPro Short QQQ;;7;0;467;13.5136;642558531.2672;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/sqqq;2;3;5
+SRSC;"Sears Canada Inc. ";;7;0;371;2.5606;260867941.3172;n/a;n/a;Consumer Services;Department/Specialty Retail Stores;http://www.nasdaq.com/symbol/srsc;2;0;2
+STBA;S&T Bancorp, Inc.;;7;0;467;28.98;1011876054.84;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/stba;4;5;9
+TOUR;Tuniu Corporation;;7;0;370;10.24;321649346.56;31411069;n/a;Consumer Services;Transportation Services;http://www.nasdaq.com/symbol/tour;1;0;1
+WAFDW;Washington Federal, Inc.;;7;0;369;9.17;0;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/wafdw;3;0;3
+CHRW;C.H. Robinson Worldwide, Inc.;;0;0;485;69.59;9931013324.43;n/a;n/a;Transportation;Oil Refining/Marketing;http://www.nasdaq.com/symbol/chrw;1;2;3
+EXLS;ExlService Holdings, Inc.;;0;0;484;49.57;1660577600.93;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/exls;1;0;1
+CHW;Calamos Global Dynamic Income Fund;;0;0;166;7.43;438421950.56;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/chw;9;1;10
+CGO;Calamos Global Total Return Fund;;0;0;165;11.35;96077761.35;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/cgo;1;0;1
+CINF;Cincinnati Financial Corporation;;0;0;467;74.96;12336606315.68;n/a;n/a;Finance;Property-Casualty Insurers;http://www.nasdaq.com/symbol/cinf;9;8;17
+FCAP;First Capital, Inc.;;0;0;251;32;106801664;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/fcap;1;0;1
+HELE;Helen of Troy Limited;;9;0;250;87.07;2423682348.47;n/a;n/a;Consumer Durables;Home Furnishings;http://www.nasdaq.com/symbol/hele;2;0;2
+BBRY;BlackBerry Limited;;0;0;177;7.91;4140793932.17;n/a;n/a;Public Utilities;Telecommunications Equipment;http://www.nasdaq.com/symbol/bbry;1;0;1
+EFII;Electronics for Imaging, Inc.;;0;0;176;48.93;2285932779.9;n/a;n/a;Technology;Computer Communications Equipment;http://www.nasdaq.com/symbol/efii;4;3;7
+FWRD;Forward Air Corporation;;0;0;173;42.5;1285897765;n/a;n/a;Transportation;Oil Refining/Marketing;http://www.nasdaq.com/symbol/fwrd;1;0;1
+LTEA;Long Island Iced Tea Corp.;;0;0;172;4.77;34194322.17;n/a;n/a;Consumer Non-Durables;Beverages (Production/Distribution);http://www.nasdaq.com/symbol/ltea;1;0;1
+OLED;Universal Display Corporation;;0;0;171;58.82;2761988564.86;n/a;n/a;Capital Goods;Electrical Products;http://www.nasdaq.com/symbol/oled;1;0;1
+QINC;First Trust RBA Quality Income ETF;;0;0;170;22.49;22490044.98;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/qinc;1;0;1
+QQQ;PowerShares QQQ Trust, Series 1;;0;0;467;118.32;39785100000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/qqq;16;65;81
+SOCL;Global X Social Media Index ETF;;0;0;467;25.18;104497000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/socl;2;1;3
+CIZ;Victory CEMP Developed Enhanced Volatility Wtd Index ETF;;0;0;112;29.908;0;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ciz;6;3;9
+CLDC;China Lending Corporation;;9;0;414;7.7;176007516.3;n/a;n/a;Finance;Diversified Financial Services;http://www.nasdaq.com/symbol/cldc;1;5;6
+BCOM;B Communications Ltd.;;9;0;413;23.55;703887009.75;n/a;n/a;Consumer Services;Telecommunications Equipment;http://www.nasdaq.com/symbol/bcom;1;0;1
+EIGI;Endurance International Group Holdings, Inc.;;9;0;412;8.5;1200291230.5;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/eigi;1;0;1
+HTBK;Heritage Commerce Corp;;9;0;411;11.4;368169418.2;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/htbk;1;0;1
+NVDA;NVIDIA Corporation;;0;0;410;64.97;34758950000;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/nvda;1;2;3
+OFS;OFS Capital Corporation;;9;0;409;13.28;128740596.16;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ofs;1;0;1
+CMRX;Chimerix, Inc.;;0;0;486;5.715;264118124.925;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/cmrx;0;1;1
+COLB;Columbia Banking System, Inc.;;7;0;467;33.03;1917341955;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/colb;21;14;35
+COMT;iShares Commodities Select Strategy ETF;;5;0;488;31.72;317200000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/comt;1;3;4
+AXAS;Abraxas Petroleum Corporation;;5;0;298;1.59;214710898.59;n/a;n/a;Energy;Oil & Gas Production;http://www.nasdaq.com/symbol/axas;3;0;3
+FTR;Frontier Communications Corporation;;5;0;487;4.33;5079397430;n/a;n/a;Public Utilities;Telecommunications Equipment;http://www.nasdaq.com/symbol/ftr;1;0;1
+PSCD;PowerShares S&P SmallCap Consumer Discretionary Portfolio;;0;0;467;49.2978;76411590;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/pscd;5;6;11
+COST;Costco Wholesale Corporation;;0;0;489;152.54;66822520980.02;n/a;n/a;Consumer Services;Department/Specialty Retail Stores;http://www.nasdaq.com/symbol/cost;0;2;2
+CRZO;Carrizo Oil & Gas, Inc.;;5;0;467;34.21;2017515489.77;n/a;n/a;Energy;Oil & Gas Production;http://www.nasdaq.com/symbol/crzo;2;2;4
+CSF;Victory CEMP US Discovery Enhanced Volatility Wtd Index ETF;;0;0;467;35.9825;19790375;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/csf;11;5;16
+CSQ;Calamos Strategic Total Return Fund;;0;0;467;10.31;1593039340;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/csq;9;5;14
+CTBI;Community Trust Bancorp, Inc.;;7;0;490;37.16;652740668.8;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ctbi;1;3;4
+CVBF;CVB Financial Corporation;;7;0;467;17.53;1892495202.89;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/cvbf;18;16;34
+DAX;Recon Capital DAX Germany ETF;;0;0;141;25.15;15090000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/dax;3;1;4
+DCOM;Dime Community Bancshares, Inc.;;7;0;467;17.15;648046844.2;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/dcom;6;23;29
+EGLT;Egalet Corporation;;7;0;368;7.9;198480563.8;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/eglt;1;0;1
+GRVY;GRAVITY Co., Ltd.;;7;0;367;5.38;8806855.56;1636962;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/grvy;1;0;1
+UTSI;UTStarcom Holdings Corp;;7;0;366;1.97;72368568.58;n/a;n/a;Consumer Durables;Telecommunications Equipment;http://www.nasdaq.com/symbol/utsi;1;0;1
+DFVL;iPath US Treasury 5-year Bull ETN;;7;0;491;69.64;4916584;n/a;n/a;Finance;Commercial Banks;http://www.nasdaq.com/symbol/dfvl;0;1;1
+DGICB;Donegal Group, Inc.;;6;5;496;18.5;492042428;n/a;n/a;Finance;Property-Casualty Insurers;http://www.nasdaq.com/symbol/dgicb;0;4;4
+AEMD;Aethlon Medical, Inc.;;6;5;495;5.11;38995191.83;n/a;n/a;Capital Goods;Biotechnology: Laboratory Analytical Instruments;http://www.nasdaq.com/symbol/aemd;1;0;1
+FSAM;Fifth Street Asset Management Inc.;;6;5;494;6.65;323849473.85;n/a;n/a;Finance;Investment Managers;http://www.nasdaq.com/symbol/fsam;1;0;1
+RELL;Richardson Electronics, Ltd.;;6;5;493;6.86;88106842.18;n/a;n/a;Consumer Non-Durables;Electronic Components;http://www.nasdaq.com/symbol/rell;1;0;1
+WINS;Wins Finance Holdings Inc.;;6;5;492;37.28;802517128.16;n/a;n/a;Finance;Finance: Consumer Services;http://www.nasdaq.com/symbol/wins;1;0;1
+DGRW;WisdomTree U.S. Quality Dividend Growth Fund;;0;0;467;32.33;709643500;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/dgrw;31;33;64
+DISCA;Discovery Communications, Inc.;;9;0;498;26.09;10330116291.82;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/disca;2;1;3
+DISCB;Discovery Communications, Inc.;;9;0;497;26.3;10413264027.4;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/discb;2;0;2
+DISCK;Discovery Communications, Inc.;;9;0;499;25.22;9985647101.56;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/disck;1;1;2
+DLBL;iPath US Treasury Long Bond Bull ETN;;9;0;502;81.65;5793557.4;n/a;n/a;Finance;Commercial Banks;http://www.nasdaq.com/symbol/dlbl;0;2;2
+CTRN;Citi Trends, Inc.;;9;0;501;19.75;294175460;n/a;n/a;Consumer Services;Clothing/Shoe/Accessory Stores;http://www.nasdaq.com/symbol/ctrn;2;0;2
+DTUS;iPath US Treasury 2-year Bear ETN;;9;0;500;29.1904;7836046.1184;n/a;n/a;Finance;Commercial Banks;http://www.nasdaq.com/symbol/dtus;1;0;1
+DLBS;iPath US Treasury Long Bond Bear ETN;;9;0;504;12.97;15908327.56;n/a;n/a;Finance;Commercial Banks;http://www.nasdaq.com/symbol/dlbs;0;1;1
+TANNL;TravelCenters of America LLC;;9;0;503;25.468;0;n/a;n/a;Consumer Durables;Automotive Aftermarket;http://www.nasdaq.com/symbol/tannl;2;0;2
+DTUL;iPath US Treasury 2-year Bull ETN;;7;0;506;66.312;3907965.096;n/a;n/a;Finance;Commercial Banks;http://www.nasdaq.com/symbol/dtul;0;2;2
+NGHC;National General Holdings Corp;;7;0;505;22.25;2356993252.25;n/a;n/a;Finance;Property-Casualty Insurers;http://www.nasdaq.com/symbol/nghc;1;0;1
+PVTB;PrivateBancorp, Inc.;;7;0;467;45.53;3619443455.29;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/pvtb;8;46;54
+DTYL;iPath US Treasury 10-year Bull ETN;;9;0;671;81.62;5614884.66;n/a;n/a;Finance;Commercial Banks;http://www.nasdaq.com/symbol/dtyl;0;212;212
+ADVM;Adverum Biotechnologies, Inc.;;9;0;670;4.19;173248932.86;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/advm;1;0;1
+AEGN;Aegion Corp;;9;0;336;18.61;643919808.62;n/a;n/a;Basic Industries;Water Supply;http://www.nasdaq.com/symbol/aegn;2;0;2
+AEGR;Aegerion Pharmaceuticals, Inc.;;9;0;669;2.7489;81132266.1072;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/aegr;1;0;1
+AIRT;Air T, Inc.;;9;0;668;20.8251;42541285.2039;n/a;n/a;Transportation;Air Freight/Delivery Services;http://www.nasdaq.com/symbol/airt;1;0;1
+ALOT;AstroNova, Inc.;;9;0;667;15.12;112872266.64;n/a;n/a;Technology;Computer peripheral equipment;http://www.nasdaq.com/symbol/alot;1;0;1
+AMCN;AirMedia Group Inc;;9;0;666;3.54;155298684.9;43869685;n/a;Technology;Advertising;http://www.nasdaq.com/symbol/amcn;1;0;1
+AMRI;Albany Molecular Research, Inc.;;9;0;665;16.21;694918987.91;n/a;n/a;Health Care;Biotechnology: Commercial Physical & Biological Resarch;http://www.nasdaq.com/symbol/amri;1;0;1
+AMRN;Amarin Corporation plc;;9;0;664;2.96;526395184.56;177836211;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/amrn;1;0;1
+AMSWA;American Software, Inc.;;9;0;663;10.99;319848893.7;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/amswa;1;0;1
+AOSL;Alpha and Omega Semiconductor Limited;;9;0;662;20.66;470137637.76;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/aosl;1;0;1
+APPS;Digital Turbine, Inc.;;9;0;661;1;66634006;n/a;n/a;Miscellaneous;Multi-Sector Companies;http://www.nasdaq.com/symbol/apps;1;0;1
+ARRY;Array BioPharma Inc.;;9;0;660;3.655;530057471.42;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/arry;1;0;1
+ARTW;"Art&#39;s-Way Manufacturing Co., Inc.";;9;0;659;2.9;11904650.8;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/artw;1;0;1
+ATVI;Activision Blizzard, Inc;;9;0;658;44.36;32891478870.32;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/atvi;1;0;1
+BEBE;bebe stores, inc.;;9;0;657;0.7147;57199927.4413;n/a;n/a;Consumer Non-Durables;Apparel;http://www.nasdaq.com/symbol/bebe;2;0;2
+BONT;The Bon-Ton Stores, Inc.;;9;0;656;1.66;35707952.9;n/a;n/a;Consumer Services;Department/Specialty Retail Stores;http://www.nasdaq.com/symbol/bont;1;0;1
+BRID;Bridgford Foods Corporation;;9;0;655;13.7;124352598.4;n/a;n/a;Consumer Non-Durables;Specialty Foods;http://www.nasdaq.com/symbol/brid;1;0;1
+BSFT;BroadSoft, Inc.;;9;0;654;47.09;1403692106.81;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/bsft;1;0;1
+BSQR;BSQUARE Corporation;;9;0;653;4.84;59351458.32;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/bsqr;1;0;1
+CAAS;China Automotive Systems, Inc.;;9;0;652;4.34;138907385.4;n/a;n/a;Capital Goods;Auto Parts:O.E.M.;http://www.nasdaq.com/symbol/caas;1;0;1
+CACQ;Caesars Acquisition Company;;9;0;52;12.92;1775501749.12;n/a;n/a;Consumer Services;Hotels/Resorts;http://www.nasdaq.com/symbol/cacq;2;0;2
+CALD;Callidus Software, Inc.;;9;0;651;18.1;1034552849.6;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/cald;1;0;1
+CAMT;Camtek Ltd.;;9;0;650;2.9664;104856829.2864;n/a;n/a;Capital Goods;Electronic Components;http://www.nasdaq.com/symbol/camt;1;0;1
+CAPN;Capnia, Inc.;;9;0;649;0.945;14894645.85;n/a;n/a;Health Care;Biotechnology: Electromedical & Electrotherapeutic Apparatus;http://www.nasdaq.com/symbol/capn;1;0;1
+CBLI;Cleveland BioLabs, Inc.;;9;0;648;1.6996;18673787.3336;n/a;n/a;Health Care;Biotechnology: Commercial Physical & Biological Resarch;http://www.nasdaq.com/symbol/cbli;1;0;1
+CDXC;ChromaDex Corporation;;9;0;647;3.009;113910461.256;n/a;n/a;Consumer Durables;Specialty Chemicals;http://www.nasdaq.com/symbol/cdxc;1;0;1
+CETV;Central European Media Enterprises Ltd.;;9;0;646;2.31;328840188.6;n/a;n/a;Consumer Services;Broadcasting;http://www.nasdaq.com/symbol/cetv;1;0;1
+CFBK;Central Federal Corporation;;9;0;645;1.4;22405194;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/cfbk;1;0;1
+CHCI;Comstock Holding Companies, Inc.;;9;0;644;1.86;6345036.6;n/a;n/a;Capital Goods;Homebuilding;http://www.nasdaq.com/symbol/chci;1;0;1
+CJJD;China Jo-Jo Drugstores, Inc.;;9;0;643;1.8;34872307.2;n/a;n/a;Consumer Durables;Specialty Chemicals;http://www.nasdaq.com/symbol/cjjd;1;0;1
+COHU;Cohu, Inc.;;9;0;642;11.53;307588335.07;n/a;n/a;Capital Goods;Electrical Products;http://www.nasdaq.com/symbol/cohu;1;0;1
+COVS;Covisint Corporation;;9;0;641;2.2;89270911.4;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/covs;1;0;1
+CRAY;Cray Inc;;9;0;640;24.515;998429146.625;n/a;n/a;Technology;Computer Manufacturing;http://www.nasdaq.com/symbol/cray;1;0;1
+CRDS;Crossroads Systems, Inc.;;9;0;407;4.3;5269529.6;n/a;n/a;Technology;Computer peripheral equipment;http://www.nasdaq.com/symbol/crds;2;0;2
+CYOU;Changyou.com Limited;;9;0;639;27.64;511949627.84;18522056;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/cyou;1;0;1
+CYRN;CYREN Ltd.;;9;0;638;2.25;88022695.5;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/cyrn;1;0;1
+CYTK;Cytokinetics, Incorporated;;9;0;637;8.765;348004560.79;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/cytk;1;0;1
+CYTX;Cytori Therapeutics Inc;;9;0;636;2.11;43239476.73;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/cytx;1;0;1
+DHRM;Dehaier Medical Systems Limited;;9;0;635;1.6901;11529674.5989;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/dhrm;1;0;1
+DJCO;Daily Journal Corp. (S.C.);;9;0;634;224.5;309977477;n/a;n/a;Consumer Services;Newspapers/Magazines;http://www.nasdaq.com/symbol/djco;1;0;1
+DORM;Dorman Products, Inc.;;9;0;633;66.52;2303318659.64;n/a;n/a;Capital Goods;Auto Parts:O.E.M.;http://www.nasdaq.com/symbol/dorm;1;0;1
+DSKX;DS Healthcare Group, Inc.;;9;0;632;0.6699;12878770.5585;n/a;n/a;Consumer Non-Durables;Package Goods/Cosmetics;http://www.nasdaq.com/symbol/dskx;1;0;1
+DTSI;DTS, Inc.;;9;0;631;42.7;753194523.2;n/a;n/a;Miscellaneous;Multi-Sector Companies;http://www.nasdaq.com/symbol/dtsi;1;0;1
+DTYS;iPath US Treasury 10-year Bear ETN;;9;0;630;12.25;38878057.75;n/a;n/a;Finance;Commercial Banks;http://www.nasdaq.com/symbol/dtys;1;1;2
+EBAY;eBay Inc.;;0;0;629;32.08;36218924643.84;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/ebay;1;4;5
+EBIO;Eleven Biotherapeutics, Inc.;;9;0;628;3.0999;62178717.9702;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/ebio;1;0;1
+EDUC;Educational Development Corporation;;9;0;627;11.25;45847158.75;n/a;n/a;Consumer Durables;Consumer Specialties;http://www.nasdaq.com/symbol/educ;1;0;1
+EGHT;8x8 Inc;;9;0;626;15.21;1364045956.65;n/a;n/a;Public Utilities;Telecommunications Equipment;http://www.nasdaq.com/symbol/eght;1;0;1
+ELSE;Electro-Sensors, Inc.;;9;0;625;3.46;11748502.66;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/else;1;0;1
+EMCG;WisdomTree Emerging Markets Consumer Growth Fund;;9;0;624;23.05;13830000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/emcg;2;0;2
+EMIF;iShares S&P Emerging Markets Infrastructure Index Fund;;0;0;434;31.09;46635000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/emif;5;1;6
+EPAY;Bottomline Technologies, Inc.;;9;0;623;23.51;964925749.55;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/epay;1;0;1
+EXAS;Exact Sciences Corporation;;9;0;622;20.16;2179447784.64;n/a;n/a;Health Care;Biotechnology: Commercial Physical & Biological Resarch;http://www.nasdaq.com/symbol/exas;1;0;1
+EXPO;Exponent, Inc.;;9;0;621;50.4;1309614465.6;n/a;n/a;Consumer Services;Professional Services;http://www.nasdaq.com/symbol/expo;1;0;1
+FBNK;First Connecticut Bancorp, Inc.;;9;0;620;18.05;285523816.7;n/a;n/a;Finance;Banks;http://www.nasdaq.com/symbol/fbnk;1;0;1
+FBZ;First Trust Brazil AlphaDEX Fund;;9;0;619;13.88;119368027.76;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fbz;1;0;1
+FDIV;First Trust Strategic Income ETF;;9;0;618;51.0495;15314952.099;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fdiv;1;0;1
+FEIM;Frequency Electronics, Inc.;;9;0;617;10.49;91574364.18;n/a;n/a;Capital Goods;Electrical Products;http://www.nasdaq.com/symbol/feim;1;0;1
+FEMB;First Trust Emerging Markets Local Currency Bond ETF;;0;0;616;42.932;12879685.864;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/femb;2;1;3
+FEP;First Trust Europe AlphaDEX Fund;;0;0;467;29.51;283296059.02;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fep;18;6;24
+FRAN;"Francesca&#39;s Holdings Corporation";;9;0;614;15.12;573346226.88;n/a;n/a;Consumer Services;Clothing/Shoe/Accessory Stores;http://www.nasdaq.com/symbol/fran;1;0;1
+FRME;First Merchants Corporation;;7;0;613;26.92;1097642110.08;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/frme;3;4;7
+FSBC;FSB Bancorp, Inc.;;9;0;612;12.65;24562353.2;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/fsbc;1;0;1
+FSFG;First Savings Financial Group, Inc.;;9;0;611;35.93;79217996.91;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/fsfg;1;0;1
+FSLR;First Solar, Inc.;;9;0;206;37.06;3793445034.18;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/fslr;3;0;3
+FSNN;Fusion Telecommunications International, Inc.;;9;0;610;1.48;22183323.36;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/fsnn;1;0;1
+FTD;FTD Companies, Inc.;;9;0;609;20.88;571511428.56;n/a;n/a;Consumer Services;Other Consumer Services;http://www.nasdaq.com/symbol/ftd;1;0;1
+FTNT;Fortinet, Inc.;;9;0;608;36.32;6272021731.36;n/a;n/a;Technology;Computer peripheral equipment;http://www.nasdaq.com/symbol/ftnt;1;0;1
+GALE;Galena Biopharma, Inc.;;9;0;49;0.3622;77499554.7766;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/gale;2;0;2
+GEOS;Geospace Technologies Corporation;;9;0;607;18.13;241637836.58;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/geos;1;0;1
+GNVC;GenVec, Inc.;;9;0;606;0.5025;11424998.79;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/gnvc;1;0;1
+HMNF;HMN Financial, Inc.;;9;0;605;14.31;64236488.13;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/hmnf;1;0;1
+HOVNP;Hovnanian Enterprises Inc;;9;0;604;4.195;20975000;n/a;n/a;Capital Goods;Homebuilding;http://www.nasdaq.com/symbol/hovnp;1;0;1
+HSIC;Henry Schein, Inc.;;0;0;243;164.45;13451387721.2;n/a;n/a;Health Care;Medical Specialities;http://www.nasdaq.com/symbol/hsic;6;0;6
+HTCH;Hutchinson Technology Incorporated;;9;0;603;3.97;134670355.88;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/htch;1;0;1
+HUBG;Hub Group, Inc.;;9;0;461;40.42;1383357038.56;n/a;n/a;Transportation;Oil Refining/Marketing;http://www.nasdaq.com/symbol/hubg;2;0;2
+HURC;Hurco Companies, Inc.;;9;0;602;28.15;185032849.45;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/hurc;1;0;1
+IGF;iShares Global Infrastructure ETF;;0;0;467;41.68;1067008000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/igf;7;14;21
+IMGN;ImmunoGen, Inc.;;9;0;601;2.82;246260563.62;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/imgn;1;0;1
+IMMR;Immersion Corporation;;9;0;460;8.06;232996424.7;n/a;n/a;Technology;Computer peripheral equipment;http://www.nasdaq.com/symbol/immr;2;0;2
+INO;Inovio Pharmaceuticals, Inc.;;9;0;600;9.51;699444732.42;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/ino;1;0;1
+IPAR;Inter Parfums, Inc.;;9;0;599;31.77;986785254.45;n/a;n/a;Consumer Non-Durables;Package Goods/Cosmetics;http://www.nasdaq.com/symbol/ipar;1;0;1
+IPCC;Infinity Property and Casualty Corporation;;9;0;598;83.81;927310716.4;n/a;n/a;Finance;Property-Casualty Insurers;http://www.nasdaq.com/symbol/ipcc;1;0;1
+IRBT;iRobot Corporation;;9;0;597;42.68;1160026779.12;n/a;n/a;Consumer Durables;Consumer Electronics/Appliances;http://www.nasdaq.com/symbol/irbt;1;0;1
+IRDM;Iridium Communications Inc;;9;0;596;7.83;748764750.06;n/a;n/a;Consumer Durables;Telecommunications Equipment;http://www.nasdaq.com/symbol/irdm;1;0;1
+ISTR;Investar Holding Corporation;;9;0;595;15.38;109952604.32;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/istr;1;0;1
+ITUS;ITUS Corporation;;9;0;594;3.02;26418214.06;n/a;n/a;Miscellaneous;Multi-Sector Companies;http://www.nasdaq.com/symbol/itus;1;0;1
+JCTCF;Jewett-Cameron Trading Company;;9;0;593;12.77;30273890.08;n/a;n/a;Consumer Services;RETAIL: Building Materials;http://www.nasdaq.com/symbol/jctcf;1;0;1
+JD;JD.com, Inc.;;9;0;592;26.835;24576623102.355;915842113;n/a;Consumer Services;Other Specialty Stores;http://www.nasdaq.com/symbol/jd;1;1;2
+JNP;Juniper Pharmaceuticals, Inc.;;9;0;590;6.08;65930012.16;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/jnp;1;0;1
+KEYW;The KEYW Holding Corporation;;9;0;589;10.89;446002596.27;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/keyw;1;0;1
+KFFB;Kentucky First Federal Bancorp;;9;0;588;8.33;70301159.95;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/kffb;1;0;1
+KINS;Kingstone Companies, Inc;;9;0;587;9.24;73091865;n/a;n/a;Finance;Property-Casualty Insurers;http://www.nasdaq.com/symbol/kins;1;0;1
+KLXI;KLX Inc.;;9;0;586;33.63;1771858832.76;n/a;n/a;Capital Goods;Aerospace;http://www.nasdaq.com/symbol/klxi;1;0;1
+KMDA;Kamada Ltd.;;9;0;585;4.96;180636955.36;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/kmda;1;0;1
+KOPN;Kopin Corporation;;9;0;584;2.16;144222124.32;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/kopn;1;0;1
+KWEB;KraneShares CSI China Internet ETF;;9;0;583;42.22;143548000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/kweb;3;0;3
+LAWS;Lawson Products, Inc.;;9;0;582;17.7001;155695513.5307;n/a;n/a;Consumer Durables;Industrial Specialties;http://www.nasdaq.com/symbol/laws;1;0;1
+LGIH;LGI Homes, Inc.;;9;0;581;36.58;769030411.84;n/a;n/a;Capital Goods;Homebuilding;http://www.nasdaq.com/symbol/lgih;1;0;1
+LION;Fidelity Southern Corporation;;9;0;580;18.11;471511670.24;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/lion;1;0;1
+LMIA;LMI Aerospace, Inc.;;9;0;579;7.453;100964255.682;n/a;n/a;Capital Goods;Military/Government/Technical;http://www.nasdaq.com/symbol/lmia;1;0;1
+LOCO;El Pollo Loco Holdings, Inc.;;9;0;578;13.885;533460769.705;n/a;n/a;Consumer Services;Restaurants;http://www.nasdaq.com/symbol/loco;1;0;1
+LVNTA;Liberty Interactive Corporation;;9;0;577;39.17;5575567985.21;n/a;n/a;Consumer Services;Catalog/Specialty Distribution;http://www.nasdaq.com/symbol/lvnta;1;0;1
+LWAY;Lifeway Foods, Inc.;;9;0;576;15.56;251148249.48;n/a;n/a;Consumer Non-Durables;Packaged Foods;http://www.nasdaq.com/symbol/lway;1;0;1
+MBWM;Mercantile Bank Corporation;;7;0;575;27.81;452728751.31;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/mbwm;1;4;5
+MDRX;Allscripts Healthcare Solutions, Inc.;;0;0;224;13.25;2471910685.25;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/mdrx;3;0;3
+MDXG;MiMedx Group, Inc;;9;0;574;8.92;981577164.36;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/mdxg;1;0;1
+MFIN;Medallion Financial Corp.;;9;0;573;4.11;99880060.98;n/a;n/a;Finance;Finance: Consumer Services;http://www.nasdaq.com/symbol/mfin;1;0;1
+MKTX;MarketAxess Holdings, Inc.;;9;0;572;170.71;6423381135.95;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/mktx;1;0;1
+MLAB;Mesa Laboratories, Inc.;;9;0;571;115.5;423358782;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/mlab;1;0;1
+MMAC;MMA Capital Management, LLC;;9;0;570;17.91;109242671.85;n/a;n/a;Finance;Real Estate;http://www.nasdaq.com/symbol/mmac;1;0;1
+MOSY;MoSys, Inc.;;9;0;569;0.75;49489920.75;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/mosy;1;0;1
+MTSL;MER Telemanagement Solutions Ltd.;;9;0;568;1.2395;10773554.2725;n/a;n/a;Public Utilities;Telecommunications Equipment;http://www.nasdaq.com/symbol/mtsl;1;0;1
+MXWL;Maxwell Technologies, Inc.;;9;0;234;5.19;166504484.91;n/a;n/a;Miscellaneous;Industrial Machinery/Components;http://www.nasdaq.com/symbol/mxwl;3;0;3
+MYRG;MYR Group, Inc.;;9;0;567;29.32;470692255.68;n/a;n/a;Basic Industries;Water Supply;http://www.nasdaq.com/symbol/myrg;1;0;1
+NANO;Nanometrics Incorporated;;9;0;566;22.28;552379373.08;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/nano;1;0;1
+NBTB;NBT Bancorp Inc.;;7;0;467;32.75;1410511977;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/nbtb;17;6;23
+NEOT;Neothetics, Inc.;;9;0;565;1.21;16716862.69;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/neot;1;0;1
+NFEC;NF Energy Saving Corporation;;9;0;564;1.1838;7757783.5182;n/a;n/a;Capital Goods;Metal Fabrications;http://www.nasdaq.com/symbol/nfec;1;0;1
+NLNK;NewLink Genetics Corporation;;9;0;563;12.88;373125949.28;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/nlnk;1;1;2
+NRCIB;National Research Corporation;;9;0;561;35.02;855941855.3;n/a;n/a;Health Care;Biotechnology: Commercial Physical & Biological Resarch;http://www.nasdaq.com/symbol/nrcib;1;0;1
+NTES;NetEase, Inc.;;9;0;560;247.35;18887843385.3;76360798;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/ntes;1;0;1
+NWFL;Norwood Financial Corp.;;9;0;559;29.38;108448161.12;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/nwfl;1;0;1
+NXEO;Nexeo Solutions, Inc.;;9;0;558;8.3;741081568.8;n/a;n/a;Basic Industries;Major Chemicals;http://www.nasdaq.com/symbol/nxeo;1;0;1
+OBAS;Optibase Ltd.;;9;0;557;7.22;37338410.5;n/a;n/a;Finance;Real Estate;http://www.nasdaq.com/symbol/obas;1;0;1
+OBCI;Ocean Bio-Chem, Inc.;;9;0;556;2.58;23599105.2;n/a;n/a;Consumer Durables;Specialty Chemicals;http://www.nasdaq.com/symbol/obci;1;0;1
+OCLR;Oclaro, Inc.;;9;0;395;8.855;1309279694.415;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/oclr;2;0;2
+OFED;Oconee Federal Financial Corp.;;9;0;555;23.99;140856445.35;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/ofed;1;0;1
+ONTX;Onconova Therapeutics, Inc.;;9;0;554;3.1;19655243.1;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/ontx;1;0;1
+OSM;SLM Corporation;;9;0;553;24.966;0;n/a;n/a;Finance;Finance: Consumer Services;http://www.nasdaq.com/symbol/osm;1;0;1
+PAAS;Pan American Silver Corp.;;0;0;89;17.79;2708359402.29;n/a;n/a;Basic Industries;Precious Metals;http://www.nasdaq.com/symbol/paas;2;3;5
+PDCO;Patterson Companies, Inc.;;0;0;456;46.68;4624727640;n/a;n/a;Health Care;Medical Specialities;http://www.nasdaq.com/symbol/pdco;3;0;3
+PFBC;Preferred Bank;;7;0;552;35.55;489703916.25;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/pfbc;1;2;3
+POWI;Power Integrations, Inc.;;9;0;551;61.41;1774034003.37;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/powi;1;0;1
+PRAH;PRA Health Sciences, Inc.;;9;0;550;55.88;3405012763.24;n/a;n/a;Health Care;Biotechnology: Commercial Physical & Biological Resarch;http://www.nasdaq.com/symbol/prah;1;0;1
+PRGS;Progress Software Corporation;;9;0;549;28.15;1364618851.65;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/prgs;1;0;1
+PRGX;PRGX Global, Inc.;;9;0;548;4.76;103915679;n/a;n/a;Consumer Services;Diversified Commercial Services;http://www.nasdaq.com/symbol/prgx;1;0;1
+PSTB;Park Sterling Corporation;;9;0;547;8.25;440229231.75;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/pstb;2;0;2
+PTLA;Portola Pharmaceuticals, Inc.;;9;0;546;23.21;1311388720.62;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/ptla;1;0;1
+QAT;iShares MSCI Qatar Capped ETF;;9;0;545;19.4;42680000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/qat;1;0;1
+QCRH;QCR Holdings, Inc.;;9;0;230;31.91;416820609.62;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/qcrh;2;0;2
+RAVE;Rave Restaurant Group, Inc.;;9;0;544;3.09;31967999.79;n/a;n/a;Consumer Non-Durables;Food Distributors;http://www.nasdaq.com/symbol/rave;1;0;1
+RBCAA;Republic Bancorp, Inc.;;7;0;543;31.17;650270004.99;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/rbcaa;3;1;4
+RCMT;RCM Technologies, Inc.;;9;0;542;6.4;78689241.6;n/a;n/a;Technology;Professional Services;http://www.nasdaq.com/symbol/rcmt;1;0;1
+RICK;RCI Hospitality Holdings, Inc.;;9;0;541;11.55;113573644.8;n/a;n/a;Consumer Services;Restaurants;http://www.nasdaq.com/symbol/rick;1;0;1
+RMCF;Rocky Mountain Chocolate Factory, Inc.;;9;0;390;10.2216;59359775.0208;n/a;n/a;Consumer Non-Durables;Specialty Foods;http://www.nasdaq.com/symbol/rmcf;2;0;2
+ROIA;Radio One, Inc.;;9;0;540;3.09;150060664.98;n/a;n/a;Consumer Services;Broadcasting;http://www.nasdaq.com/symbol/roia;1;0;1
+RSTI;Rofin-Sinar Technologies, Inc.;;9;0;539;32.33;918637648.99;n/a;n/a;Miscellaneous;Industrial Machinery/Components;http://www.nasdaq.com/symbol/rsti;1;0;1
+RTK;Rentech, Inc.;;9;0;126;3.03;70261588.29;n/a;n/a;Basic Industries;Agricultural Chemicals;http://www.nasdaq.com/symbol/rtk;2;0;2
+RVSB;Riverview Bancorp Inc;;9;0;538;5.22;117491185.8;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/rvsb;1;0;1
+SAFT;Safety Insurance Group, Inc.;;9;0;537;66.94;1014681473.56;n/a;n/a;Finance;Property-Casualty Insurers;http://www.nasdaq.com/symbol/saft;1;0;1
+SASR;Sandy Spring Bancorp, Inc.;;9;0;118;30.71;733282570.08;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/sasr;3;0;3
+SGI;Silicon Graphics International Corp;;9;0;536;7.7;281191726.2;n/a;n/a;Technology;Computer Manufacturing;http://www.nasdaq.com/symbol/sgi;1;0;1
+SGMA;SigmaTron International, Inc.;;9;0;535;5.43;22727878.59;n/a;n/a;Technology;Electrical Products;http://www.nasdaq.com/symbol/sgma;1;0;1
+SGRP;SPAR Group, Inc.;;9;0;534;1.03;21241499.45;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/sgrp;1;0;1
+SHIP;Seanergy Maritime Holdings Corp;;9;0;533;3.15;12299121.45;n/a;n/a;Transportation;Marine Transportation;http://www.nasdaq.com/symbol/ship;1;0;1
+SKOR;FlexShares Credit-Scored US Corporate Bond Index Fund;;9;0;532;51.78;36246051.78;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/skor;1;0;1
+SKUL;Skullcandy, Inc.;;9;0;531;6.33;181966383.12;n/a;n/a;Consumer Non-Durables;Consumer Electronics/Appliances;http://www.nasdaq.com/symbol/skul;1;0;1
+SMBC;Southern Missouri Bancorp, Inc.;;9;0;530;24.6;182946903.6;n/a;n/a;Finance;Banks;http://www.nasdaq.com/symbol/smbc;1;0;1
+SMED;Sharps Compliance Corp;;9;0;529;4.45;70762133.35;n/a;n/a;Basic Industries;Environmental Services;http://www.nasdaq.com/symbol/smed;2;0;2
+SOHOL;Sotherly Hotels LP;;9;0;528;25.45;0;n/a;n/a;Consumer Services;Hotels/Resorts;http://www.nasdaq.com/symbol/sohol;1;0;1
+SPPI;Spectrum Pharmaceuticals, Inc.;;9;0;527;4.73;379425066.68;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/sppi;1;0;1
+SRPT;Sarepta Therapeutics, Inc.;;9;0;526;57.84;2770508930.88;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/srpt;1;0;1
+STEM;StemCells, Inc.;;9;0;525;1.42;17049735.52;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/stem;1;0;1
+STX;Seagate Technology PLC;;9;0;438;36.46;10887292562.26;n/a;n/a;Technology;Electronic Components;http://www.nasdaq.com/symbol/stx;2;0;2
+SYMC;Symantec Corporation;;9;0;524;25.04;15414338594.08;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/symc;1;1;2
+TAYD;Taylor Devices, Inc.;;9;0;523;18.95;64867726.05;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/tayd;1;0;1
+TCFC;The Community Financial Corporation;;9;0;522;23.35;108741603.8;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/tcfc;1;0;1
+TINY;Harris & Harris Group, Inc.;;9;0;385;1.3901;42927440.3929;n/a;n/a;Finance;Finance/Investors Services;http://www.nasdaq.com/symbol/tiny;2;0;2
+TTMI;TTM Technologies, Inc.;;9;0;521;11.32;1134840482.32;n/a;n/a;Technology;Electrical Products;http://www.nasdaq.com/symbol/ttmi;2;0;2
+TTNP;Titan Pharmaceuticals, Inc.;;9;0;520;5.99;126981285.21;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/ttnp;1;0;1
+TUBE;TubeMogul, Inc.;;9;0;519;9.56;346269662.56;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/tube;1;0;1
+UDF;United Development Funding IV;;9;0;518;3.2;98152403.2;n/a;n/a;Consumer Services;Real Estate Investment Trusts;http://www.nasdaq.com/symbol/udf;1;0;1
+UFCS;United Fire Group, Inc;;9;0;517;42.96;1091020107.6;n/a;n/a;Finance;Property-Casualty Insurers;http://www.nasdaq.com/symbol/ufcs;1;0;1
+UTHR;United Therapeutics Corporation;;9;0;516;127.21;5529538074.74;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/uthr;1;0;1
+VASC;Vascular Solutions, Inc.;;9;0;515;49.55;866727460.35;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/vasc;1;0;1
+VIAV;Viavi Solutions Inc.;;9;0;514;7.42;1723651879.74;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/viav;2;0;2
+VICL;Vical Incorporated;;9;0;513;3.21;29552489.43;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/vicl;1;0;1
+WDFC;WD-40 Company;;9;0;174;116.79;1662685506.6;n/a;n/a;Basic Industries;Major Chemicals;http://www.nasdaq.com/symbol/wdfc;2;0;2
+WINA;Winmark Corporation;;9;0;512;104.85;430908336;n/a;n/a;Consumer Services;Other Specialty Stores;http://www.nasdaq.com/symbol/wina;1;0;1
+WINT;Windtree Therapeutics, Inc.;;9;0;511;2.62;21768888.32;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/wint;1;0;1
+WYNN;Wynn Resorts, Limited;;9;0;510;102.14;10396923649.54;n/a;n/a;Consumer Services;Hotels/Resorts;http://www.nasdaq.com/symbol/wynn;1;0;1
+XNCR;Xencor, Inc.;;9;0;509;25.06;1026197903.22;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/xncr;1;0;1
+YHOO;Yahoo! Inc.;;9;0;508;42.8;40736294723.6;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/yhoo;1;0;1
+ZIOP;ZIOPHARM Oncology Inc;;0;0;16;5.76;758778756.48;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/ziop;8;0;8
+ZN;Zion Oil & Gas Inc;;9;0;507;1.32;54053156.52;n/a;n/a;Energy;Oil & Gas Production;http://www.nasdaq.com/symbol/zn;1;0;1
+DWAT;Arrow DWA Tactical ETF;;0;0;467;10.34;9306000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/dwat;3;9;12
+DXPS;WisdomTree United Kingdom Hedged Equity Fund;;0;0;277;26.4075;27727875;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/dxps;4;1;5
+EEMA;iShares MSCI Emerging Markets Asia Index Fund;;0;0;467;57.6483;196004220;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/eema;3;9;12
+EQIX;Equinix, Inc.;;0;0;672;359.77;25570496969.59;n/a;n/a;Consumer Services;Real Estate Investment Trusts;http://www.nasdaq.com/symbol/eqix;0;1;1
+EUFN;iShares MSCI Europe Financials Sector Index Fund;;0;0;467;17.33;334469000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/eufn;13;13;26
+EWBC;East West Bancorp, Inc.;;7;0;467;36.58;5271293227;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ewbc;6;1;7
+EXPD;Expeditors International of Washington, Inc.;;0;0;673;50.88;9211928558.4;n/a;n/a;Transportation;Oil Refining/Marketing;http://www.nasdaq.com/symbol/expd;0;1;1
+FAD;First Trust Multi Cap Growth AlphaDEX Fund;;0;0;467;53.0988;87613126.1976;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fad;13;17;30
+FAST;Fastenal Company;;0;0;467;40.44;11685782977.56;n/a;n/a;Consumer Services;RETAIL: Building Materials;http://www.nasdaq.com/symbol/fast;2;2;4
+FCA;First Trust China AlphaDEX Fund;;9;0;674;21.3136;4262762.6272;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fca;0;1;1
+KVHI;KVH Industries, Inc.;;9;0;591;8.79;145116764.58;n/a;n/a;Technology;Radio And Television Broadcasting And Communications Equipment;http://www.nasdaq.com/symbol/kvhi;2;0;2
+FCAN;First Trust Canada AlphaDEX Fund;;5;0;675;23.5;7050047;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fcan;0;1;1
+FDT;First Trust Developed Markets Ex-US AlphaDEX Fund;;0;0;467;49.2899;226832119.8;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fdt;5;8;13
+FEM;First Trust Emerging Markets AlphaDEX Fund;;0;0;467;20.91;129642041.82;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fem;4;2;6
+DENN;"Denny&#39;s Corporation";;0;0;615;10.74;803379859.56;n/a;n/a;Consumer Services;Restaurants;http://www.nasdaq.com/symbol/denn;1;0;1
+FEX;First Trust Large Cap Core AlphaDEX Fund;;0;0;467;46.66;1411465093.32;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fex;28;16;44
+FFBC;First Financial Bancorp.;;7;0;467;22.2;1375622733.6;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ffbc;20;6;26
+FFIN;First Financial Bankshares, Inc.;;7;0;467;36.58;2416471580.96;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ffin;6;3;9
+FGM;First Trust Germany AlphaDEX Fund;;0;0;467;37.726;120723275.452;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fgm;2;3;5
+FIBK;First Interstate BancSystem, Inc.;;7;0;467;32.01;1432326310.14;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/fibk;9;4;13
+FRGI;Fiesta Restaurant Group, Inc.;;7;0;216;26.48;712878777.92;n/a;n/a;Consumer Services;Restaurants;http://www.nasdaq.com/symbol/frgi;1;0;1
+SFM;Sprouts Farmers Market, Inc.;;7;0;215;20.59;3056079150.72;n/a;n/a;Consumer Services;Food Chains;http://www.nasdaq.com/symbol/sfm;3;0;3
+FITB;Fifth Third Bancorp;;7;0;467;20.91;16024889979.51;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/fitb;19;4;23
+FKU;First Trust United Kingdom AlphaDEX Fund;;0;0;467;34.32;39468068.64;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fku;2;3;5
+FLN;First Trust Latin America AlphaDEX Fund;;9;0;677;18.1899;113686911.3798;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fln;0;2;2
+EWZS;iShares MSCI Brazil Small-Cap ETF;;9;0;676;11.69;49098000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ewzs;2;0;2
+FMBI;First Midwest Bancorp, Inc.;;7;0;467;19.44;1580790835.44;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/fmbi;37;48;85
+HBCP;Home Bancorp, Inc.;;7;0;365;27.71;202856347.61;n/a;n/a;Finance;Banks;http://www.nasdaq.com/symbol/hbcp;1;0;1
+HOLX;Hologic, Inc.;;7;0;186;38.45;10666908813.2;n/a;n/a;Health Care;Medical Electronics;http://www.nasdaq.com/symbol/holx;2;0;2
+FMK;First Trust Mega Cap AlphaDEX Fund;;0;0;467;27.2604;14993274.5208;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fmk;8;13;21
+FNK;First Trust Mid Cap Value AlphaDEX Fund;;0;0;467;29.4995;48674233.999;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fnk;11;10;21
+FNY;First Trust Mid Cap Growth AlphaDEX Fund;;0;0;467;31.1998;96719442.3996;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fny;20;39;59
+PSCC;PowerShares S&P SmallCap Consumer Staples Portfolio;;0;0;129;65.59;108223500;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/pscc;4;0;4
+FOXA;Twenty-First Century Fox, Inc.;;0;0;347;23.93;29217093218.87;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/foxa;1;1;2
+FTA;First Trust Large Cap Value AlphaDEX Fund;;0;0;467;42.39;807529584.78;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fta;14;17;31
+CDNS;Cadence Design Systems, Inc.;;0;0;257;24.81;7252930590;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/cdns;2;0;2
+CTSH;Cognizant Technology Solutions Corporation;;0;0;382;54.42;33029829352.8;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/ctsh;3;0;3
+MANT;ManTech International Corporation;;0;0;433;40.29;1540517682.57;n/a;n/a;Consumer Services;Other Consumer Services;http://www.nasdaq.com/symbol/mant;2;0;2
+SBSI;Southside Bancshares, Inc.;;0;0;467;32.37;849753609.9;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/sbsi;2;1;3
+TSC;TriState Capital Holdings, Inc.;;0;0;34;16.21;457369721.22;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/tsc;2;0;2
+FTCS;First Trust Capital Strength ETF;;0;0;467;40.1;258645080.2;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ftcs;12;25;37
+FULT;Fulton Financial Corporation;;7;0;467;14.69;2542251400;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/fult;16;17;33
+FV;First Trust Dorsey Wright Focus 5 ETF;;0;0;467;22.71;3087424545.42;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fv;17;30;47
+WEN;"Wendy&#39;s Company (The)";;0;0;18;10.83;2829394909.83;n/a;n/a;Consumer Services;Restaurants;http://www.nasdaq.com/symbol/wen;2;0;2
+PSCI;PowerShares S&P SmallCap Industrials Portfolio;;0;0;467;49.32;61650000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/psci;13;32;45
+FYX;First Trust Small Cap Core AlphaDEX Fund;;0;0;467;49.77;447930099.54;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fyx;14;21;35
+GABC;German American Bancorp, Inc.;;7;0;429;39.29;599480887.21;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/gabc;1;1;2
+GALTU;Galectin Therapeutics Inc.;;0;0;683;4.19;0;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/galtu;0;8;8
+BWLD;Buffalo Wild Wings, Inc.;;0;0;682;155.37;2842942547.82;n/a;n/a;Consumer Services;Restaurants;http://www.nasdaq.com/symbol/bwld;1;0;1
+CASS;Cass Information Systems, Inc;;0;0;681;54.69;611014891.77;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/cass;1;0;1
+GENE;Genetic Technologies Ltd;;0;0;680;1.88;16138258.4;8584180;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/gene;1;0;1
+VIIX;VelocityShares VIX Short Term ETN;;0;0;679;11.42;13657931.72;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/viix;2;1;3
+WWD;Woodward, Inc.;;0;0;678;61.32;3770027981.16;n/a;n/a;Energy;Industrial Machinery/Components;http://www.nasdaq.com/symbol/wwd;1;2;3
+GBCI;Glacier Bancorp, Inc.;;7;0;467;28.86;2198332549.14;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/gbci;20;36;56
+ETFC;E*TRADE Financial Corporation;;0;0;195;28.41;7775397270.66;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/etfc;5;0;5
+LTRX;Lantronix, Inc.;;7;0;185;1.4399;24843745.1801;n/a;n/a;Technology;Computer Communications Equipment;http://www.nasdaq.com/symbol/ltrx;2;0;2
+GK;G&K Services, Inc.;;0;0;467;96.42;1897881430.86;n/a;n/a;Consumer Services;Other Consumer Services;http://www.nasdaq.com/symbol/gk;1;4;5
+SHBI;Shore Bancshares Inc;;0;0;352;11.81;149547030.26;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/shbi;1;0;1
+SIFY;Sify Technologies Limited;;0;0;351;1.05;26352138.75;25097275;n/a;Technology;Computer Software: Programming, Data Processing;http://www.nasdaq.com/symbol/sify;1;0;1
+GOLD;Randgold Resources Limited;;0;0;684;101.1;4170042482.1;41246711;n/a;Basic Industries;Precious Metals;http://www.nasdaq.com/symbol/gold;0;4;4
+OZRK;Bank of the Ozarks;;7;0;467;38.54;4667512263.32;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ozrk;3;15;18
+PRZM;Prism Technologies Group, Inc.;;0;0;88;0.2131;2146702.9128;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/przm;2;0;2
+RGEN;Repligen Corporation;;0;0;87;32.1;1084547195.7;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/rgen;3;0;3
+SSNC;SS&C Technologies Holdings, Inc.;;0;0;86;32.18;6472614532.72;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/ssnc;3;0;3
+GOOGL;Alphabet Inc.;;0;0;245;814.96;560100653603.12;n/a;n/a;Technology;Computer Software: Programming, Data Processing;http://www.nasdaq.com/symbol/googl;4;1;5
+GOV;Government Properties Income Trust;;0;0;686;23.675;1684211279.4;n/a;n/a;Finance;Real Estate;http://www.nasdaq.com/symbol/gov;1;2;3
+SNCR;Synchronoss Technologies, Inc.;;0;0;685;42.09;1899740105.01;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/sncr;2;0;2
+GSBC;Great Southern Bancorp, Inc.;;7;0;467;41.79;581356653.78;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/gsbc;3;1;4
+HAFC;Hanmi Financial Corporation;;7;0;467;26.52;855626561.4;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/hafc;9;7;16
+HBAN;Huntington Bancshares Incorporated;;7;0;467;9.9;7911624560.4;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/hban;13;3;16
+HBHC;Hancock Holding Company;;7;0;467;31.96;2478305920.4;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/hbhc;2;4;6
+HOPE;Hope Bancorp, Inc.;;7;0;467;17.03;1355747417.83;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/hope;5;3;8
+HPT;Hospitality Properties Trust;;0;0;687;29.91;4533153259.08;n/a;n/a;Consumer Services;Real Estate Investment Trusts;http://www.nasdaq.com/symbol/hpt;0;2;2
+IBB;iShares Nasdaq Biotechnology Index Fund;;0;0;467;298.14;7721826000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ibb;4;34;38
+BIIB;Biogen Inc.;;0;0;241;312.58;68492767785.96;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/biib;2;0;2
+FOLD;Amicus Therapeutics, Inc.;;0;0;236;7.63;1084524011.13;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/fold;1;0;1
+NUVA;NuVasive, Inc.;;0;0;233;66.77;3352818759.73;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/nuva;1;0;1
+PRTS;U.S. Auto Parts Network, Inc.;;0;0;231;3.35;116878016;n/a;n/a;Consumer Services;Other Specialty Stores;http://www.nasdaq.com/symbol/prts;1;0;1
+TECD;Tech Data Corporation;;0;0;116;87.32;3074877311.4;n/a;n/a;Technology;Retail: Computer Software & Peripheral Equipment;http://www.nasdaq.com/symbol/tecd;3;0;3
+IBKC;IBERIABANK Corporation;;7;0;467;67.43;2767098882.02;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ibkc;12;2;14
+IFGL;iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund;;0;0;467;30.22;761544000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ifgl;4;6;10
+FTRI;First Trust Indxx Global Natural Resources Income ETF;;0;0;28;10.3564;10356420.7128;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ftri;2;0;2
+IGOV;iShares S&P/Citigroup International Treasury Bond Fund;;8;6;689;100.21;736543500;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/igov;1;1;2
+ISCA;International Speedway Corporation;;8;6;688;33.49;1539435901.68;n/a;n/a;Consumer Services;Services-Misc. Amusement & Recreation;http://www.nasdaq.com/symbol/isca;1;0;1
+ILMN;Illumina, Inc.;;0;0;690;179.33;26289778000;n/a;n/a;Capital Goods;Biotechnology: Laboratory Analytical Instruments;http://www.nasdaq.com/symbol/ilmn;0;1;1
+INDB;Independent Bank Corp.;;7;0;467;53.55;1409901135.3;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/indb;4;9;13
+INTC;Intel Corporation;;0;0;691;37.19;175945890000;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/intc;0;2;2
+ISBC;Investors Bancorp, Inc.;;7;0;467;12.05;3740288151.85;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/isbc;8;2;10
+ISHG;iShares S&P/Citigroup 1-3 Year International Treasury Bond Fun;;8;6;692;82.9069;87052245;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ishg;0;1;1
+IXUS;iShares Core MSCI Total International Stock ETF;;0;0;467;52.31;2992132000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ixus;10;33;43
+FLEX;Flextronics International Ltd.;;0;0;248;13.57;7411358075.63;n/a;n/a;Technology;Electrical Products;http://www.nasdaq.com/symbol/flex;9;0;9
+FPA;First Trust Asia Pacific Ex-Japan AlphaDEX Fund;;0;0;435;30.12;34638060.24;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fpa;1;0;1
+ICLN;iShares S&P Global Clean Energy Index Fund;;0;0;346;9.31;83790000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/icln;4;0;4
+IPKW;PowerShares International BuyBack Achievers Portfolio;;0;0;26;28.42;88102000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/ipkw;6;0;6
+JCOM;j2 Global, Inc.;;0;0;467;66.56;3195677987.84;n/a;n/a;Technology;Telecommunications Equipment;http://www.nasdaq.com/symbol/jcom;3;2;5
+WDC;Western Digital Corporation;;0;0;133;55.94;15901763737.84;n/a;n/a;Technology;Electronic Components;http://www.nasdaq.com/symbol/wdc;1;0;1
+JKI;iShares Morningstar Mid-Cap ETF;;0;0;467;133.36;233380000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/jki;10;8;18
+KELYB;Kelly Services, Inc.;;9;0;748;18.01;686068149.34;n/a;n/a;Technology;Professional Services;http://www.nasdaq.com/symbol/kelyb;0;66;66
+ABAC;Aoxin Tianli Group, Inc.;;9;0;747;2.09;16694920;n/a;n/a;Consumer Non-Durables;Farming/Seeds/Milling;http://www.nasdaq.com/symbol/abac;1;0;1
+ABEO;Abeona Therapeutics Inc.;;9;0;746;6.2708;210358394.3724;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/abeo;1;0;1
+ACRX;AcelRx Pharmaceuticals, Inc.;;9;0;745;3.68;166749050.56;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/acrx;1;0;1
+AEZS;AEterna Zentaris Inc.;;9;0;744;3.46;34391925.98;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/aezs;1;0;1
+AMCC;Applied Micro Circuits Corporation;;9;0;743;6.91;589880690.76;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/amcc;1;0;1
+APPY;Venaxis, Inc.;;9;0;742;3.46;13414285.06;n/a;n/a;Health Care;Biotechnology: In Vitro & In Vivo Diagnostic Substances;http://www.nasdaq.com/symbol/appy;1;0;1
+ARCI;Appliance Recycling Centers of America, Inc.;;9;0;741;0.984;5855604.912;n/a;n/a;Consumer Services;Home Furnishings;http://www.nasdaq.com/symbol/arci;1;0;1
+ATEC;Alphatec Holdings, Inc.;;9;0;740;8.62;6135448.78;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/atec;1;0;1
+ATOS;Atossa Genetics Inc.;;9;0;739;2.17;5724388.39;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/atos;1;0;1
+BPFHW;Boston Private Financial Holdings, Inc.;;9;0;738;6.109;0;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/bpfhw;1;0;1
+BPTH;Bio-Path Holdings, Inc.;;9;0;737;1.39;132946861.36;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/bpth;1;0;1
+BSPM;Biostar Pharmaceuticals, Inc.;;9;0;736;3.7622;8317896.8886;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/bspm;1;0;1
+CALI;China Auto Logistics Inc.;;9;0;735;2.7756;11197863.9864;n/a;n/a;Consumer Services;Motor Vehicles;http://www.nasdaq.com/symbol/cali;1;0;1
+CAPNW;Capnia, Inc.;;9;0;734;0.2493;0;n/a;n/a;Health Care;Biotechnology: Electromedical & Electrotherapeutic Apparatus;http://www.nasdaq.com/symbol/capnw;1;0;1
+CCCR;China Commercial Credit, Inc.;;9;0;733;2.1878;34649674.1162;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/cccr;1;0;1
+CNTF;China TechFaith Wireless Communication Technology Limited;;9;0;732;2.65;19236315.55;7258987;n/a;n/a;n/a;http://www.nasdaq.com/symbol/cntf;1;0;1
+CSII;Cardiovascular Systems, Inc.;;9;0;731;22.99;766619597.15;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/csii;1;0;1
+CXDC;China XD Plastics Company Limited;;9;0;730;4.59;226774416.69;n/a;n/a;Capital Goods;Containers/Packaging;http://www.nasdaq.com/symbol/cxdc;1;0;1
+ENG;ENGlobal Corporation;;9;0;729;1.62;45034673.22;n/a;n/a;Consumer Services;Military/Government/Technical;http://www.nasdaq.com/symbol/eng;1;0;1
+ENPH;Enphase Energy, Inc.;;9;0;728;1.18;55158913.56;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/enph;1;0;1
+ESES;Eco-Stim Energy Solutions, Inc.;;9;0;727;2.25;30700100.25;n/a;n/a;Energy;Oilfield Services/Equipment;http://www.nasdaq.com/symbol/eses;1;0;1
+FFBCW;First Financial Bancorp.;;9;0;726;10.35;0;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ffbcw;1;0;1
+GCBC;Greene County Bancorp, Inc.;;9;0;725;16.66;141183737.24;n/a;n/a;Finance;Banks;http://www.nasdaq.com/symbol/gcbc;1;0;1
+GIFI;Gulf Island Fabrication, Inc.;;9;0;724;8.98;131399912.86;n/a;n/a;Capital Goods;Metal Fabrications;http://www.nasdaq.com/symbol/gifi;1;0;1
+GTLS;Chart Industries, Inc.;;9;0;723;31.07;950525473.17;n/a;n/a;Capital Goods;Metal Fabrications;http://www.nasdaq.com/symbol/gtls;1;0;1
+GTXI;GTx, Inc.;;9;0;722;0.7342;104194592.8414;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/gtxi;1;0;1
+IMOS;ChipMOS TECHNOLOGIES (Bermuda) LTD.;;9;0;721;20.19;550983908.79;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/imos;1;0;1
+INVE;Identiv, Inc.;;9;0;720;2.6;28482508.6;n/a;n/a;Technology;Computer peripheral equipment;http://www.nasdaq.com/symbol/inve;1;0;1
+IRMD;iRadimed Corporation;;9;0;719;17.28;184422528;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/irmd;1;0;1
+ITI;Iteris, Inc.;;9;0;718;3.81;122177186.43;n/a;n/a;Consumer Durables;Telecommunications Equipment;http://www.nasdaq.com/symbol/iti;1;0;1
+LBTYA;Liberty Global plc;;9;0;449;34.43;31673397444.04;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/lbtya;2;1;3
+LFUS;Littelfuse, Inc.;;9;0;459;126.59;2842347423.25;n/a;n/a;Consumer Durables;Electrical Products;http://www.nasdaq.com/symbol/lfus;2;0;2
+LIND;"Lindblad Expeditions Holdings Inc. ";;9;0;717;9.05;415285857;n/a;n/a;Consumer Services;Transportation Services;http://www.nasdaq.com/symbol/lind;1;0;1
+MCBC;Macatawa Bank Corporation;;9;0;716;8.03;272395980.67;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/mcbc;1;0;1
+NEON;Neonode Inc.;;9;0;715;1.28;62520963.84;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/neon;1;0;1
+PTSI;P.A.M. Transportation Services, Inc.;;9;0;714;19.86;128149192.08;n/a;n/a;Transportation;Trucking Freight/Courier Services;http://www.nasdaq.com/symbol/ptsi;1;0;1
+RDNT;RadNet, Inc.;;9;0;713;7.32;339885197.28;n/a;n/a;Health Care;Medical Specialities;http://www.nasdaq.com/symbol/rdnt;1;0;1
+RNST;Renasant Corporation;;7;0;712;33.51;1410304339.74;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/rnst;1;6;7
+RPRX;Repros Therapeutics Inc.;;9;0;711;2.16;52529999.04;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/rprx;1;0;1
+SEAC;SeaChange International, Inc.;;9;0;710;2.95;103791687.85;n/a;n/a;Technology;Radio And Television Broadcasting And Communications Equipment;http://www.nasdaq.com/symbol/seac;1;0;1
+SGEN;Seattle Genetics, Inc.;;9;0;709;55.81;7842223130.31;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/sgen;1;0;1
+SGYPU;Synergy Pharmaceuticals, Inc.;;9;0;708;12.1425;22077274.935;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/sgypu;1;0;1
+SHSP;SharpSpring, Inc.;;9;0;707;5.09;42491472.7;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/shsp;1;0;1
+SIEB;Siebert Financial Corp.;;9;0;706;1.39;30698325.14;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/sieb;1;0;1
+SMRT;Stein Mart, Inc.;;9;0;705;7.83;367243646.58;n/a;n/a;Consumer Services;Clothing/Shoe/Accessory Stores;http://www.nasdaq.com/symbol/smrt;1;0;1
+SPCB;SuperCom, Ltd.;;9;0;704;3.48;53917780.2;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/spcb;1;0;1
+SREV;ServiceSource International, Inc.;;9;0;703;4.97;426443703.14;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/srev;1;0;1
+STRL;Sterling Construction Company Inc;;9;0;702;7.3;182521637.2;n/a;n/a;Basic Industries;Military/Government/Technical;http://www.nasdaq.com/symbol/strl;1;0;1
+SYNT;Syntel, Inc.;;9;0;701;41.3;3469333853.3;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/synt;1;0;1
+TA;TravelCenters of America LLC;;9;0;700;7.03;273134220.89;n/a;n/a;Consumer Durables;Automotive Aftermarket;http://www.nasdaq.com/symbol/ta;1;0;1
+TCCO;Technical Communications Corporation;;9;0;699;2.59;4765281.43;n/a;n/a;Technology;Radio And Television Broadcasting And Communications Equipment;http://www.nasdaq.com/symbol/tcco;1;0;1
+TRVN;Trevena, Inc.;;9;0;698;6.99;364725436.26;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/trvn;1;0;1
+TVIZ;VelocityShares Daily 2x VIX Medium Term ETN;;0;0;697;9.0099;1932551.4708;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/tviz;1;2;3
+VTL;Vital Therapies, Inc.;;9;0;696;6.07;191453026.27;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/vtl;1;0;1
+WIX;Wix.com Ltd.;;9;0;695;43.27;1742606046.42;n/a;n/a;Technology;Computer Software: Programming, Data Processing;http://www.nasdaq.com/symbol/wix;1;0;1
+XENT;Intersect ENT, Inc.;;9;0;694;15.78;449009201.16;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/xent;1;0;1
+ZEUS;Olympic Steel, Inc.;;9;0;693;21.11;231350675.23;n/a;n/a;Basic Industries;Metal Fabrications;http://www.nasdaq.com/symbol/zeus;1;0;1
+LAMR;Lamar Advertising Company;;0;0;749;65.6;6393284094.4;n/a;n/a;Consumer Services;Real Estate Investment Trusts;http://www.nasdaq.com/symbol/lamr;0;1;1
+LBRDA;Liberty Broadband Corporation;;9;0;306;70.92;12882340986.48;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/lbrda;3;2;5
+CHTR;Charter Communications, Inc.;;9;0;305;276.08;74797755030.32;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/chtr;2;0;2
+LBTYB;Liberty Global plc;;9;0;448;36.49;33568465661.72;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/lbtyb;1;0;1
+LBTYK;Liberty Global plc;;9;0;450;33.39;30716663974.92;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/lbtyk;1;1;2
+LGCYP;Legacy Reserves LP;;10;7;751;3.99;7980000;n/a;n/a;Energy;Oil & Gas Production;http://www.nasdaq.com/symbol/lgcyp;0;1;1
+LGCYO;Legacy Reserves LP;;10;7;750;4.05;28350000;n/a;n/a;Energy;Oil & Gas Production;http://www.nasdaq.com/symbol/lgcyo;1;0;1
+LGND;Ligand Pharmaceuticals Incorporated;;0;0;752;115.79;2414727270.72;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/lgnd;0;1;1
+LKFN;Lakeland Financial Corporation;;7;0;467;35.64;1338919065;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/lkfn;4;39;43
+BMTC;Bryn Mawr Bank Corporation;;7;0;430;31.73;534116801.4;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/bmtc;1;0;1
+GBNK;Guaranty Bancorp;;7;0;427;18;392267844;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/gbnk;1;0;1
+LLTC;Linear Technology Corporation;;0;0;467;58.88;14114787023.36;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/lltc;6;8;14
+LMCK;Liberty Media Corporation;;0;0;227;28.61;2395371105.6;n/a;n/a;Consumer Services;Broadcasting;http://www.nasdaq.com/symbol/lmck;1;1;2
+LTXB;LegacyTexas Financial Group, Inc.;;7;0;467;31.67;1510029083.7;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/ltxb;3;2;5
+MATW;Matthews International Corporation;;7;0;754;60.48;1942198050.24;n/a;n/a;Capital Goods;Metal Fabrications;http://www.nasdaq.com/symbol/matw;1;2;3
+SYBT;Stock Yards Bancorp, Inc.;;7;0;753;33;742945731;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/sybt;3;1;4
+MBFI;MB Financial Inc.;;7;0;467;37.95;2799286381.65;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/mbfi;5;7;12
+MCHP;Microchip Technology Incorporated;;0;0;467;60.64;13055091183.52;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/mchp;3;4;7
+OMEX;Odyssey Marine Exploration, Inc.;;0;0;279;3.62;27310528.9;n/a;n/a;Consumer Services;Marine Transportation;http://www.nasdaq.com/symbol/omex;1;0;1
+MENT;Mentor Graphics Corporation;;0;0;467;24.57;2657392305.75;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/ment;5;1;6
+MEOH;Methanex Corporation;;0;0;755;30.76;2762501400.88;n/a;n/a;Basic Industries;Major Chemicals;http://www.nasdaq.com/symbol/meoh;0;1;1
+MNST;Monster Beverage Corporation;;9;0;756;148.48;28264163112.96;n/a;n/a;Consumer Non-Durables;Beverages (Production/Distribution);http://www.nasdaq.com/symbol/mnst;0;1;1
+IXYS;IXYS Corporation;;9;0;228;11.89;374043372.28;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/ixys;3;0;3
+MORN;Morningstar, Inc.;;0;0;757;79.63;3428789125.56;n/a;n/a;Finance;Investment Managers;http://www.nasdaq.com/symbol/morn;0;2;2
+MPWR;Monolithic Power Systems, Inc.;;0;0;467;76.56;3100087119.36;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/mpwr;4;5;9
+PCAR;PACCAR Inc.;;0;0;299;57.92;20302599773.12;n/a;n/a;Capital Goods;Auto Manufacturing;http://www.nasdaq.com/symbol/pcar;1;0;1
+MSFT;Microsoft Corporation;;0;0;467;57.43;447524169357.39;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/msft;4;2;6
+MSTR;MicroStrategy Incorporated;;0;0;213;171.79;1963753307.33;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/mstr;2;1;3
+MXIM;Maxim Integrated Products, Inc.;;0;0;274;39;11056939686;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/mxim;2;2;4
+NFBK;Northfield Bancorp, Inc.;;7;0;457;16.18;782192005.2;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/nfbk;1;1;2
+NBIX;Neurocrine Biosciences, Inc.;;9;0;562;53.92;4677648051.36;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/nbix;1;0;1
+NTRS;Northern Trust Corporation;;7;0;467;69.31;15705016734.51;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ntrs;1;19;20
+NDAQ;Nasdaq, Inc.;;7;0;381;69.46;11492414974.44;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/ndaq;1;0;1
+ISIL;Intersil Corporation;;0;0;280;21.84;2959245525.6;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/isil;3;0;3
+NWSA;News Corporation;;0;0;212;14.05;8151367003.5;n/a;n/a;Consumer Services;Newspapers/Magazines;http://www.nasdaq.com/symbol/nwsa;5;1;6
+NXPI;NXP Semiconductors N.V.;;0;0;758;83.89;28456379247.36;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/nxpi;0;1;1
+IDTI;Integrated Device Technology, Inc.;;0;0;281;21.75;2921563182;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/idti;2;0;2
+ONB;Old National Bancorp;;7;0;467;13.98;1887369900;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/onb;12;12;24
+ONEQ;Fidelity Nasdaq Composite Index Tracking Stock;;0;0;467;208.61;688413000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/oneq;18;102;120
+AAPL;Apple Inc.;;0;0;272;112.7;607277526100;n/a;n/a;Technology;Computer Manufacturing;http://www.nasdaq.com/symbol/aapl;2;0;2
+CMCSA;Comcast Corporation;;0;0;256;67.15;161954094814.9;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/cmcsa;2;0;2
+CPHD;CEPHEID;;0;0;255;52.5;3832876320;n/a;n/a;Capital Goods;Biotechnology: Laboratory Analytical Instruments;http://www.nasdaq.com/symbol/cphd;1;0;1
+DHIL;Diamond Hill Investment Group, Inc.;;0;0;253;183.5;628709168;n/a;n/a;Finance;Investment Managers;http://www.nasdaq.com/symbol/dhil;1;0;1
+FJP;First Trust Japan AlphaDEX Fund;;0;0;249;48.9614;56305707.9228;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fjp;2;0;2
+FONE;First Trust NASDAQ Smartphone Index Fund;;0;0;247;41.22;10305082.44;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/fone;1;0;1
+GNTX;Gentex Corporation;;0;0;246;17.62;5053255464.18;n/a;n/a;Capital Goods;Auto Parts:O.E.M.;http://www.nasdaq.com/symbol/gntx;6;0;6
+IAC;IAC/InterActiveCorp;;0;0;242;62.45;4969523635.55;n/a;n/a;Consumer Services;Other Specialty Stores;http://www.nasdaq.com/symbol/iac;1;0;1
+MSCC;Microsemi Corporation;;0;0;220;40.96;4636182896.64;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/mscc;2;0;2
+SYNL;Synalloy Corporation;;0;0;210;8.88;76886245.68;n/a;n/a;Basic Industries;Steel/Iron Ore;http://www.nasdaq.com/symbol/synl;1;0;1
+OPHT;Ophthotech Corporation;;0;0;761;58.14;2069387252.64;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/opht;0;4;4
+CLDX;Celldex Therapeutics, Inc.;;0;0;760;3.835;385592065.365;n/a;n/a;Health Care;Biotechnology: In Vitro & In Vivo Diagnostic Substances;http://www.nasdaq.com/symbol/cldx;1;0;1
+PTC;PTC Inc.;;0;0;759;44.13;5073011678.01;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/ptc;1;0;1
+OSIS;OSI Systems, Inc.;;0;0;762;65.45;1240695856.4;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/osis;0;5;5
+IBOC;International Bancshares Corporation;;7;0;380;30.19;1990975856.1;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/iboc;5;0;5
+PBCT;"People&#39;s United Financial, Inc.";;7;0;467;15.81;4916266248.42;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/pbct;7;2;9
+PCLN;"The Priceline Group Inc. ";;0;0;763;1456.76;72003212422.56;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/pcln;0;15;15
+DXJS;WisdomTree Japan Hedged SmallCap Equity Fund;;0;0;341;31.16;62320000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/dxjs;2;0;2
+KLAC;KLA-Tencor Corporation;;0;0;340;69.32;10813573607.96;n/a;n/a;Capital Goods;Electronic Components;http://www.nasdaq.com/symbol/klac;2;0;2
+PFPT;Proofpoint, Inc.;;0;0;764;76.51;3216064797.68;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/pfpt;0;1;1
+PNFP;Pinnacle Financial Partners, Inc.;;7;0;467;55.25;2549245497.5;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/pnfp;7;57;64
+BSRR;Sierra Bancorp;;7;0;426;18.62;258534864.28;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/bsrr;1;0;1
+FNBC;First NBC Bank Holding Company;;7;0;425;11.0001;211547620.1427;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/fnbc;1;0;1
+HTLF;Heartland Financial USA, Inc.;;7;0;424;36.19;888300450.73;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/htlf;3;0;3
+STB;Student Transportation Inc;;7;0;423;6.03;554178195.45;n/a;n/a;Transportation;Other Transportation;http://www.nasdaq.com/symbol/stb;1;0;1
+UBFO;United Security Bancshares;;9;0;467;6.44;105448534.24;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ubfo;1;40;41
+WETF;WisdomTree Investments, Inc.;;7;0;379;10.18;1390390986.46;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/wetf;1;0;1
+WRLD;World Acceptance Corporation;;7;0;377;48.95;430293996;n/a;n/a;Finance;Finance: Consumer Services;http://www.nasdaq.com/symbol/wrld;2;0;2
+PNQI;PowerShares Nasdaq Internet Portfolio;;0;0;467;87.5704;293360840;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/pnqi;7;3;10
+PPH;VanEck Vectors Pharmaceutical ETF;;0;0;467;59.39;242794515.82;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/pph;6;5;11
+GLNG;Golar LNG Limited;;5;0;297;20.38;1897378000;n/a;n/a;Consumer Services;Marine Transportation;http://www.nasdaq.com/symbol/glng;1;0;1
+HEES;H&E Equipment Services, Inc.;;5;0;296;15.95;565619857;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/hees;1;0;1
+TERP;TerraForm Power, Inc.;;5;0;295;14.47;2031548583.72;n/a;n/a;Public Utilities;Electric Utilities: Central;http://www.nasdaq.com/symbol/terp;1;0;1
+ACGL;Arch Capital Group Ltd.;;0;0;355;80.28;9840082247.28;n/a;n/a;Finance;Property-Casualty Insurers;http://www.nasdaq.com/symbol/acgl;1;0;1
+COBZ;CoBiz Financial Inc.;;0;0;354;13.09;542360038.22;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/cobz;1;0;1
+FCBC;First Community Bancshares, Inc.;;0;0;275;25.12;428233501.44;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/fcbc;2;0;2
+MANH;Manhattan Associates, Inc.;;0;0;350;57.68;4130177784.32;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/manh;3;0;3
+AMCX;AMC Networks Inc.;;0;0;339;52.37;3739204383.8;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/amcx;1;0;1
+CNMD;CONMED Corporation;;0;0;337;39.83;1107984686.69;n/a;n/a;Health Care;Biotechnology: Electromedical & Electrotherapeutic Apparatus;http://www.nasdaq.com/symbol/cnmd;1;0;1
+PSCT;PowerShares S&P SmallCap Information Technology Portfolio;;0;0;467;63.59;480104500;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/psct;7;41;48
+ESND;Essendant Inc.;;0;0;276;20.17;752289324.46;n/a;n/a;Consumer Services;Paper;http://www.nasdaq.com/symbol/esnd;1;0;1
+NOVT;Novanta Inc.;;0;0;273;17.25;593616901.5;n/a;n/a;Miscellaneous;Industrial Machinery/Components;http://www.nasdaq.com/symbol/novt;1;0;1
+SMSI;Smith Micro Software, Inc.;;0;0;205;2.281;28111137.521;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/smsi;2;0;2
+PSCU;PowerShares S&P SmallCap Utilities Portfolio;;11;8;766;46.33;62545500;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/pscu;0;1;1
+MGEE;MGE Energy Inc.;;11;8;765;58.82;2039193523.4;n/a;n/a;Energy;Electric Utilities: Central;http://www.nasdaq.com/symbol/mgee;1;0;1
+PTEN;Patterson-UTI Energy, Inc.;;5;0;767;18.8;2777367973.2;n/a;n/a;Energy;Oil & Gas Production;http://www.nasdaq.com/symbol/pten;0;2;2
+LBAI;Lakeland Bancorp, Inc.;;7;0;431;13.77;611965444.95;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/lbai;2;0;2
+XTLB;XTL Biopharmaceuticals Ltd.;;7;0;378;1.0272;4515157.2384;4395597;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/xtlb;1;0;1
+QABA;First Trust NASDAQ ABA Community Bank Index Fund;;7;0;467;41.3962;175933932.7924;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/qaba;9;52;61
+CBF;Capital Bank Financial Corp.;;7;0;432;32.13;1388842769.16;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/cbf;2;0;2
+QCLN;First Trust NASDAQ Clean Edge Green Energy Index Fund;;0;0;207;14.91;52930529.82;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/qcln;9;2;11
+QCOM;QUALCOMM Incorporated;;0;0;467;62.75;92471436158.75;n/a;n/a;Technology;Radio And Television Broadcasting And Communications Equipment;http://www.nasdaq.com/symbol/qcom;1;2;3
+QQXT;First Trust NASDAQ-100 Ex-Technology Sector Index Fund;;0;0;467;40.48;119416080.96;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/qqxt;15;95;110
+CERN;Cerner Corporation;;0;0;348;62.76;21194633659.68;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/cern;2;0;2
+INTU;Intuit Inc.;;0;0;345;109.9;28347391914.8;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/intu;1;0;1
+JBHT;J.B. Hunt Transport Services, Inc.;;0;0;344;78.82;8881458014.38;n/a;n/a;Transportation;Trucking Freight/Courier Services;http://www.nasdaq.com/symbol/jbht;1;0;1
+LOGM;LogMein, Inc.;;0;0;343;89.73;2270765435.31;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/logm;2;0;2
+ORBC;ORBCOMM Inc.;;0;0;342;10.22;725484125.1;n/a;n/a;Consumer Services;Telecommunications Equipment;http://www.nasdaq.com/symbol/orbc;1;0;1
+PAYX;Paychex, Inc.;;0;0;284;59.92;21603077499.92;n/a;n/a;Consumer Services;Diversified Commercial Services;http://www.nasdaq.com/symbol/payx;4;0;4
+VRNT;Verint Systems Inc.;;0;0;114;38.51;2431475996.71;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/vrnt;1;0;1
+QTEC;First Trust NASDAQ-100- Technology Index Fund;;0;0;467;50.1;338175100.2;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/qtec;14;27;41
+ENTG;Entegris, Inc.;;0;0;282;17.18;2425983986.04;n/a;n/a;Consumer Non-Durables;Plastic Products;http://www.nasdaq.com/symbol/entg;1;0;1
+QVCB;Liberty Interactive Corporation;;9;0;773;20.2;9615275931.8;n/a;n/a;Consumer Services;Catalog/Specialty Distribution;http://www.nasdaq.com/symbol/qvcb;0;9;9
+CIDM;Cinedigm Corp;;9;0;772;2.17;18316844.14;n/a;n/a;Consumer Services;Consumer Electronics/Video Chains;http://www.nasdaq.com/symbol/cidm;1;0;1
+CISG;CNinsure Inc.;;9;0;771;8.21;297016815.24;36177444;n/a;Finance;Specialty Insurers;http://www.nasdaq.com/symbol/cisg;1;0;1
+EXEL;Exelixis, Inc.;;9;0;770;14.9;3431853540.9;n/a;n/a;Health Care;Biotechnology: Commercial Physical & Biological Resarch;http://www.nasdaq.com/symbol/exel;1;0;1
+SCLN;SciClone Pharmaceuticals, Inc.;;9;0;769;10.59;528857970.66;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/scln;1;0;1
+TUES;Tuesday Morning Corp.;;9;0;768;5.79;257955188.34;n/a;n/a;Consumer Services;Department/Specialty Retail Stores;http://www.nasdaq.com/symbol/tues;1;0;1
+QYLD;Recon Capital NASDAQ-100 Covered Call ETF;;0;0;774;22.13;17704000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/qyld;0;3;3
+RARE;Ultragenyx Pharmaceutical Inc.;;12;9;777;72.62;2863812763.66;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/rare;0;2;2
+EPZM;Epizyme, Inc.;;12;9;776;9.72;563341816.44;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/epzm;1;0;1
+MDGL;Madrigal Pharmaceuticals, Inc.;;12;9;775;11.65;1310531.8;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/mdgl;1;0;1
+RDVY;First Trust NASDAQ Rising Dividend Achievers ETF;;0;0;467;22.05;27562544.1;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/rdvy;8;25;33
+REGN;Regeneron Pharmaceuticals, Inc.;;0;0;779;410.39;43211812317.34;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/regn;0;4;4
+GILD;Gilead Sciences, Inc.;;0;0;778;81.37;107380611249.93;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/gild;1;0;1
+ROBO;ROBO Global Robotics and Automation Index ETF;;0;0;467;28.0699;129121540;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/robo;5;15;20
+RUSHB;Rush Enterprises, Inc.;;13;10;781;23.81;944338719.73;n/a;n/a;Consumer Durables;Automotive Aftermarket;http://www.nasdaq.com/symbol/rushb;0;1;1
+RUSHA;Rush Enterprises, Inc.;;13;10;780;23.91;948304863.03;n/a;n/a;Consumer Durables;Automotive Aftermarket;http://www.nasdaq.com/symbol/rusha;1;0;1
+RVEN;Reven Housing REIT, Inc.;;0;0;783;5.6;56664641.6;n/a;n/a;Consumer Services;Real Estate Investment Trusts;http://www.nasdaq.com/symbol/rven;0;2;2
+MICTW;Micronet Enertec Technologies, Inc.;;0;0;782;0.1254;0;n/a;n/a;Capital Goods;Electrical Products;http://www.nasdaq.com/symbol/mictw;1;0;1
+SBNY;Signature Bank;;7;0;467;116.24;6240131913.28;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/sbny;1;7;8
+SBNYW;Signature Bank;;9;0;787;85.67;0;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/sbnyw;0;4;4
+BMRA;Biomerica, Inc.;;9;0;786;2.76;22548297.48;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/bmra;1;0;1
+OPXA;Opexa Therapeutics, Inc.;;9;0;785;3.2259;22739530.395;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/opxa;1;0;1
+STAA;STAAR Surgical Company;;9;0;784;9.43;381268205.73;n/a;n/a;Health Care;Ophthalmic Goods;http://www.nasdaq.com/symbol/staa;1;0;1
+SCZ;iShares MSCI EAFE Small-Cap ETF;;0;0;467;52.3;6119100000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/scz;1;22;23
+SEIC;SEI Investments Company;;0;0;788;46.11;7438749007.05;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/seic;0;1;1
+SENEB;Seneca Foods Corp.;;14;11;790;44.96;440551485.28;n/a;n/a;Consumer Non-Durables;Packaged Foods;http://www.nasdaq.com/symbol/seneb;0;1;1
+CGEN;Compugen Ltd.;;14;11;789;6.81;346686571.74;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/cgen;1;0;1
+SFNC;Simmons First National Corporation;;7;0;791;49.57;1507752200.39;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/sfnc;0;3;3
+SIVB;SVB Financial Group;;7;0;467;109.69;5707999078.88;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/sivb;3;9;12
+SKYY;First Trust ISE Cloud Computing Index Fund;;0;0;467;33.86;568848067.72;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/skyy;10;38;48
+SMTC;Semtech Corporation;;0;0;792;27.58;1808328979.24;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/smtc;0;1;1
+SNI;Scripps Networks Interactive, Inc;;9;0;794;61.64;7954478715.64;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/sni;0;5;5
+CDW;CDW Corporation;;9;0;793;46.28;7558171873.72;n/a;n/a;Consumer Services;Catalog/Specialty Distribution;http://www.nasdaq.com/symbol/cdw;1;0;1
+SNPS;Synopsys, Inc.;;0;0;467;59.38;8986502456.88;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/snps;5;3;8
+SOXX;iShares PHLX SOX Semiconductor Sector Index Fund;;0;0;467;109.32;453678000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/soxx;5;20;25
+CY;Cypress Semiconductor Corporation;;0;0;283;11.77;3780297227.41;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/cy;1;0;1
+TVIA;TerraVia Holdings, Inc.;;7;0;372;2.7;230093797.5;n/a;n/a;Basic Industries;Major Chemicals;http://www.nasdaq.com/symbol/tvia;1;0;1
+TVIX;VelocityShares Daily 2x VIX Short Term ETN;;0;0;467;18.05;257409876.75;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/tvix;3;1;4
+VIDI;Vident International Equity Fund;;0;0;467;21.91;0;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vidi;6;15;21
+SRCL;Stericycle, Inc.;;0;0;795;79.55;6765088236.2;n/a;n/a;Basic Industries;Environmental Services;http://www.nasdaq.com/symbol/srcl;0;1;1
+SSB;South State Corporation;;7;0;796;75.53;1828618762.88;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ssb;0;8;8
+STBZ;State Bank Financial Corporation.;;7;0;797;22.91;845256225.31;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/stbz;0;3;3
+CDXS;Codexis, Inc.;;7;0;51;4.28;176255103.72;n/a;n/a;Basic Industries;Major Chemicals;http://www.nasdaq.com/symbol/cdxs;1;0;1
+CTHR;Charles & Colvard Ltd;;7;0;50;1.2;25775862;n/a;n/a;Consumer Durables;Consumer Specialties;http://www.nasdaq.com/symbol/cthr;1;0;1
+NAME;Rightside Group, Ltd.;;7;0;48;8.84;170662485.24;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/name;1;0;1
+TNAV;Telenav, Inc.;;7;0;47;5.51;235319382.92;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/tnav;1;0;1
+UCFC;United Community Financial Corp.;;7;0;46;7.22;335726989.26;n/a;n/a;Finance;Banks;http://www.nasdaq.com/symbol/ucfc;1;0;1
+TCBI;Texas Capital Bancshares, Inc.;;7;0;467;54.36;2498214800.88;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/tcbi;2;6;8
+TCBK;TriCo Bancshares;;7;0;467;26.91;614148765.75;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/tcbk;4;5;9
+TDIV;First Trust NASDAQ Technology Dividend Index Fund;;0;0;467;28.9401;564476650.5;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/tdiv;7;28;35
+TLT;iShares 20+ Year Treasury Bond ETF;;18;12;800;136.8;7551360000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/tlt;2;1;3
+VGIT;Vanguard Intermediate -Term Government Bond ETF;;18;12;800;66.62;899428425.74;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vgit;3;4;7
+TMUS;T-Mobile US, Inc.;;15;13;801;47.29;38907380274.8;n/a;n/a;Public Utilities;Telecommunications Equipment;http://www.nasdaq.com/symbol/tmus;2;1;3
+TMUSP;T-Mobile US, Inc.;;15;13;802;78.95;0;n/a;n/a;Public Utilities;Telecommunications Equipment;http://www.nasdaq.com/symbol/tmusp;0;1;1
+TQQQ;ProShares UltraPro QQQ;;0;0;467;127.5893;937781355;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/tqqq;7;4;11
+TRMK;Trustmark Corporation;;7;0;467;27.88;1885380901.64;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/trmk;8;11;19
+TROVU;TrovaGene, Inc.;;0;0;804;17.69;0;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/trovu;0;2;2
+KBSF;KBS Fashion Group Limited;;0;0;803;0.3901;10344881.2837;n/a;n/a;Consumer Non-Durables;Apparel;http://www.nasdaq.com/symbol/kbsf;1;0;1
+TRTL;Terrapin 3 Acquisition Corporation;;16;14;806;9.87;150585227.94;n/a;n/a;Finance;Business Services;http://www.nasdaq.com/symbol/trtl;0;1;1
+SMBK;SmartFinancial, Inc.;;16;14;805;16.32;95282443.2;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/smbk;1;0;1
+TRTLU;Terrapin 3 Acquisition Corporation;;17;15;808;10.06;186110000;n/a;n/a;Finance;Business Services;http://www.nasdaq.com/symbol/trtlu;0;1;1
+OMCL;Omnicell, Inc.;;17;15;807;37.85;1368725454.75;n/a;n/a;Technology;Computer Manufacturing;http://www.nasdaq.com/symbol/omcl;1;0;1
+TXN;Texas Instruments Incorporated;;0;0;810;68.98;69201408968.88;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/txn;0;3;3
+TSCO;Tractor Supply Company;;0;0;809;68.36;9137324634.24;n/a;n/a;Consumer Services;RETAIL: Building Materials;http://www.nasdaq.com/symbol/tsco;1;0;1
+AFAM;Almost Family Inc;;9;0;422;36.73;381526814.55;n/a;n/a;Health Care;Medical/Nursing Services;http://www.nasdaq.com/symbol/afam;1;0;1
+ALJJ;ALJ Regional Holdings, Inc.;;9;0;421;4.81;165960449.72;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/aljj;1;0;1
+ALSK;Alaska Communications Systems Group, Inc.;;9;0;420;1.75;89844308.75;n/a;n/a;Public Utilities;Telecommunications Equipment;http://www.nasdaq.com/symbol/alsk;1;0;1
+AUMAU;AR Capital Acquisition Corp.;;9;0;419;10.08;0;n/a;n/a;Finance;Business Services;http://www.nasdaq.com/symbol/aumau;1;0;1
+BKMU;Bank Mutual Corporation;;9;0;418;7.9;360163227.8;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/bkmu;1;0;1
+BMCH;BMC Stock Holdings, Inc.;;9;0;417;18.24;1211632967.04;n/a;n/a;Consumer Services;RETAIL: Building Materials;http://www.nasdaq.com/symbol/bmch;1;0;1
+BOCH;Bank of Commerce Holdings (CA);;9;0;416;7.18;96495049.96;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/boch;1;0;1
+CIZN;Citizens Holding Company;;9;0;415;22.8099;111200064.4821;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/cizn;1;0;1
+CLMS;Calamos Asset Management, Inc.;;9;0;408;6.85;140635096.35;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/clms;1;0;1
+CVCY;Central Valley Community Bancorp;;9;0;406;16.2;179444548.8;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/cvcy;1;0;1
+CWST;Casella Waste Systems, Inc.;;9;0;405;9.03;374640270.06;n/a;n/a;Public Utilities;Environmental Services;http://www.nasdaq.com/symbol/cwst;1;0;1
+EBMT;Eagle Bancorp Montana, Inc.;;9;0;404;14.4;54424281.6;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/ebmt;1;0;1
+ELOS;Syneron Medical Ltd.;;9;0;403;7;246922039;n/a;n/a;Health Care;Biotechnology: Electromedical & Electrotherapeutic Apparatus;http://www.nasdaq.com/symbol/elos;1;0;1
+FCCY;1st Constitution Bancorp (NJ);;9;0;402;13.525;107561538.85;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/fccy;1;0;1
+IIVI;II-VI Incorporated;;9;0;401;23.44;1468215968;n/a;n/a;Capital Goods;Electronic Components;http://www.nasdaq.com/symbol/iivi;1;0;1
+JXSB;Jacksonville Bancorp Inc.;;9;0;400;29;52157776;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/jxsb;1;0;1
+KE;Kimball Electronics, Inc.;;9;0;399;13.22;372210950.8;n/a;n/a;Technology;Electrical Products;http://www.nasdaq.com/symbol/ke;1;0;1
+NRIM;Northrim BanCorp Inc;;9;0;398;25.65;176535663.3;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/nrim;1;0;1
+NSSC;NAPCO Security Technologies, Inc.;;9;0;397;7.04;132259726.72;n/a;n/a;Consumer Durables;Telecommunications Equipment;http://www.nasdaq.com/symbol/nssc;1;0;1
+NUAN;Nuance Communications, Inc.;;9;0;396;14.555;4070885053.555;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/nuan;1;0;1
+PENN;Penn National Gaming, Inc.;;9;0;394;13.3;1109001680.5;n/a;n/a;Consumer Services;Hotels/Resorts;http://www.nasdaq.com/symbol/penn;1;0;1
+PLPM;Planet Payment, Inc.;;9;0;393;3.77;189918745.25;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/plpm;1;0;1
+PNTR;Pointer Telocation Ltd.;;9;0;392;7.32;57138778.08;n/a;n/a;Technology;Radio And Television Broadcasting And Communications Equipment;http://www.nasdaq.com/symbol/pntr;1;0;1
+PRSC;The Providence Service Corporation;;9;0;391;47.47;688268716.75;n/a;n/a;Consumer Services;Transportation Services;http://www.nasdaq.com/symbol/prsc;1;0;1
+RVNC;Revance Therapeutics, Inc.;;9;0;389;17.54;499625759.9;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/rvnc;1;0;1
+SLP;Simulations Plus, Inc.;;9;0;388;8.6;146646890.4;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/slp;1;0;1
+SMTX;SMTC Corporation;;9;0;387;1.39;22949150.2;n/a;n/a;Technology;Electrical Products;http://www.nasdaq.com/symbol/smtx;1;0;1
+TENX;Tenax Therapeutics, Inc.;;9;0;386;2.3838;67032091.2786;n/a;n/a;Health Care;Biotechnology: Commercial Physical & Biological Resarch;http://www.nasdaq.com/symbol/tenx;1;0;1
+TRNS;Transcat, Inc.;;9;0;384;10.45;73068604.95;n/a;n/a;Capital Goods;Electrical Products;http://www.nasdaq.com/symbol/trns;1;0;1
+WFBI;WashingtonFirst Bankshares Inc;;9;0;383;24.76;303370166.8;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/wfbi;1;0;1
+WTFC;Wintrust Financial Corporation;;7;0;467;55.35;2859993558.45;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/wtfc;1;11;12
+UBNK;"United Financial Bancorp, Inc. ";;7;0;811;13.94;701086120.68;n/a;n/a;Finance;Banks;http://www.nasdaq.com/symbol/ubnk;1;3;4
+TRST;TrustCo Bank Corp NY;;7;0;376;7.11;679713483.06;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/trst;3;0;3
+UBSI;United Bankshares, Inc.;;7;0;467;37.7;2879523247.9;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ubsi;2;14;16
+UCBI;United Community Banks, Inc.;;7;0;812;20.8;1473066400;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/ucbi;1;13;14
+UMPQ;Umpqua Holdings Corporation;;7;0;467;15.27;3362387819.82;n/a;n/a;Finance;Savings Institutions;http://www.nasdaq.com/symbol/umpq;4;12;16
+UVSP;Univest Corporation of Pennsylvania;;7;0;813;23.49;623781084.24;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/uvsp;0;1;1
+VALX;Validea Market Legends ETF;;0;0;467;24.4401;23218095;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/valx;7;7;14
+VCIT;Vanguard Intermediate-Term Corporate Bond ETF;;18;12;799;89.33;10193436473.7;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vcit;3;2;5
+VECO;Veeco Instruments Inc.;;18;12;798;19.17;779031360.99;n/a;n/a;Technology;Industrial Machinery/Components;http://www.nasdaq.com/symbol/veco;2;0;2
+VCLT;Vanguard Long-Term Corporate Bond ETF;;18;12;800;95.14;1455801359.5;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vclt;2;1;3
+VCSH;Vanguard Short-Term Corporate Bond ETF;;18;12;814;80.54;14624400526.84;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vcsh;0;2;2
+VGLT;Vanguard Long-Term Government Bond ETF;;18;12;815;83.93;571127787.23;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vglt;0;2;2
+VIAB;Viacom Inc.;;0;0;816;35.5;12334833976;n/a;n/a;Consumer Services;Television Services;http://www.nasdaq.com/symbol/viab;0;1;1
+VIIZ;VelocityShares VIX Medium Term ETN;;0;0;817;13.18;856700;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/viiz;0;1;1
+VNQI;Vanguard Global ex-U.S. Real Estate ETF;;0;0;467;56.04;3753157449.24;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vnqi;4;19;23
+VNRBP;Vanguard Natural Resources LLC;;19;16;818;3.38;23660000;n/a;n/a;Energy;Oil & Gas Production;http://www.nasdaq.com/symbol/vnrbp;2;1;3
+VNRCP;Vanguard Natural Resources LLC;;19;16;819;3.37;0;n/a;n/a;Energy;Oil & Gas Production;http://www.nasdaq.com/symbol/vnrcp;0;1;1
+GT;The Goodyear Tire & Rubber Company;;0;0;437;32.3;8477071885.8;n/a;n/a;Consumer Durables;Automotive Aftermarket;http://www.nasdaq.com/symbol/gt;1;0;1
+SANM;Sanmina Corporation;;0;0;436;28.245;2087462824.65;n/a;n/a;Technology;Electrical Products;http://www.nasdaq.com/symbol/sanm;2;0;2
+FLIR;FLIR Systems, Inc.;;0;0;442;31.56;4332595681.92;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/flir;2;0;2
+HDS;HD Supply Holdings, Inc.;;0;0;441;31.9;6412727517.9;n/a;n/a;Consumer Services;Office Equipment/Supplies/Services;http://www.nasdaq.com/symbol/hds;2;0;2
+NATI;National Instruments Corporation;;0;0;440;28.53;3669151062.51;n/a;n/a;Technology;Computer Software: Prepackaged Software;http://www.nasdaq.com/symbol/nati;1;0;1
+SATS;EchoStar Corporation;;0;0;439;41.05;3853850640.35;n/a;n/a;Technology;Radio And Television Broadcasting And Communications Equipment;http://www.nasdaq.com/symbol/sats;1;0;1
+VONV;Vanguard Russell 1000 Value ETF;;0;0;467;92.03;687924250;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vonv;5;31;36
+VRSN;VeriSign, Inc.;;0;0;820;78.56;8387578361.12;n/a;n/a;Technology;EDP Services;http://www.nasdaq.com/symbol/vrsn;0;6;6
+GERN;Geron Corporation;;0;0;82;2.205;350902125.63;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/gern;1;0;1
+VTHR;Vanguard Russell 3000 ETF;;0;0;467;99.36;280692000;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vthr;3;26;29
+ALGN;Align Technology, Inc.;;0;0;453;94.12;7533983262.52;n/a;n/a;Health Care;Industrial Specialties;http://www.nasdaq.com/symbol/algn;1;0;1
+CAVM;Cavium, Inc.;;0;0;452;57.1;3305989332.7;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/cavm;1;0;1
+CERS;Cerus Corporation;;0;0;451;6.24;640906306.56;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/cers;1;0;1
+MASI;Masimo Corporation;;0;0;447;59.77;2949736704.43;n/a;n/a;Health Care;Biotechnology: Electromedical & Electrotherapeutic Apparatus;http://www.nasdaq.com/symbol/masi;1;0;1
+NVAX;Novavax, Inc.;;0;0;446;2.27;615595974.58;n/a;n/a;Health Care;Biotechnology: Biological Products (No Diagnostic Substances);http://www.nasdaq.com/symbol/nvax;1;0;1
+PLKI;Popeyes Louisiana Kitchen, Inc.;;0;0;445;57.07;1214115683.43;n/a;n/a;Consumer Services;Restaurants;http://www.nasdaq.com/symbol/plki;1;0;1
+RDWR;Radware Ltd.;;0;0;444;13.77;616604723.19;n/a;n/a;Miscellaneous;Business Services;http://www.nasdaq.com/symbol/rdwr;1;0;1
+TROW;T. Rowe Price Group, Inc.;;0;0;443;65.93;16387043051.71;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/trow;1;0;1
+AAON;AAON, Inc.;;0;0;464;28.41;1503592573.65;n/a;n/a;Capital Goods;Industrial Machinery/Components;http://www.nasdaq.com/symbol/aaon;1;0;1
+AMKR;Amkor Technology, Inc.;;0;0;463;9.12;2165160759.36;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/amkr;1;0;1
+CSFL;CenterState Banks, Inc.;;0;0;462;17.87;857860000.52;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/csfl;1;0;1
+LYTS;LSI Industries Inc.;;0;0;458;10.45;261020267.2;n/a;n/a;Consumer Durables;Building Products;http://www.nasdaq.com/symbol/lyts;1;0;1
+RTRX;Retrophin, Inc.;;0;0;455;22.57;829021649.24;n/a;n/a;Health Care;Major Pharmaceuticals;http://www.nasdaq.com/symbol/rtrx;1;0;1
+SCSC;ScanSource, Inc.;;0;0;454;36.28;929704241.68;n/a;n/a;Technology;Retail: Computer Software & Peripheral Equipment;http://www.nasdaq.com/symbol/scsc;1;0;1
+VUSE;Vident Core US Equity ETF;;0;0;821;26.5357;403342640;n/a;n/a;n/a;n/a;http://www.nasdaq.com/symbol/vuse;0;44;44
+WAFD;Washington Federal, Inc.;;7;0;822;26.88;2432355717.12;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/wafd;0;46;46
+WASH;Washington Trust Bancorp, Inc.;;7;0;824;41.6;710590608;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/wash;0;18;18
+OKSB;Southwest Bancorp, Inc.;;7;0;823;18.71;349677551.4;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/oksb;1;0;1
+WOOF;"VCA Inc. ";;0;0;828;67.5;5458449802.5;n/a;n/a;Consumer Non-Durables;Farming/Seeds/Milling;http://www.nasdaq.com/symbol/woof;0;14;14
+MAR;Marriott International;;0;0;827;68.39;17398447459.4;n/a;n/a;Consumer Services;Hotels/Resorts;http://www.nasdaq.com/symbol/mar;1;0;1
+SLAB;Silicon Laboratories, Inc.;;0;0;826;56.25;2339833500;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/slab;1;0;1
+THRM;Gentherm Inc;;0;0;825;30.93;1128308800.83;n/a;n/a;Capital Goods;Auto Parts:O.E.M.;http://www.nasdaq.com/symbol/thrm;1;0;1
+WSBC;WesBanco, Inc.;;7;0;829;32.98;1266855562.14;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/wsbc;0;7;7
+WSFS;WSFS Financial Corporation;;7;0;830;36.18;1069124427;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/wsfs;0;1;1
+XLNX;Xilinx, Inc.;;0;0;831;53.12;13464970426.88;n/a;n/a;Technology;Semiconductors;http://www.nasdaq.com/symbol/xlnx;0;2;2
+XRAY;DENTSPLY SIRONA Inc.;;0;0;832;59.36;13831611968.16;n/a;n/a;Health Care;Medical/Dental Instruments;http://www.nasdaq.com/symbol/xray;0;2;2
+ZION;Zions Bancorporation;;7;0;833;30.61;6278443608.26;n/a;n/a;Finance;Major Banks;http://www.nasdaq.com/symbol/zion;0;3;3
+ZIV;VelocityShares Daily Inverse VIX Medium Term ETN;;0;0;834;43.44;73326720;n/a;n/a;Finance;Investment Bankers/Brokers/Service;http://www.nasdaq.com/symbol/ziv;0;1;1

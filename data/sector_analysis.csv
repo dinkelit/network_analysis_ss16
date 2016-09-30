@@ -1,0 +1,42 @@
+module;sector;percent
+9;Consumer Durables;4,89%
+9;Capital Goods;8,14%
+9;Transportation;1,30%
+9;Finance;17,59%
+9;Public Utilities;1,30%
+9;Energy;0,98%
+9;n/a;3,91%
+9;Miscellaneous;3,91%
+9;Health Care;21,17%
+9;Consumer Services;14,01%
+9;Basic Industries;2,93%
+9;Consumer Non-Durables;3,26%
+9;Technology;16,61%
+0;Consumer Durables;2,11%
+0;Transportation;1,68%
+0;Finance;10,32%
+0;Consumer Non-Durables;3,58%
+0;Public Utilities;0,42%
+0;Energy;1,47%
+0;Miscellaneous;3,37%
+0;n/a;25,68%
+0;Health Care;14,74%
+0;Consumer Services;9,68%
+0;Basic Industries;2,11%
+0;Capital Goods;5,68%
+0;Technology;19,16%
+5;Energy;30,00%
+5;Public Utilities;20,00%
+5;Consumer Services;10,00%
+5;n/a;40,00%
+7;Consumer Durables;1,20%
+7;Capital Goods;4,22%
+7;Transportation;3,01%
+7;Finance;68,07%
+7;n/a;3,61%
+7;Miscellaneous;1,81%
+7;Health Care;7,83%
+7;Consumer Services;4,82%
+7;Basic Industries;1,20%
+7;Consumer Non-Durables;1,20%
+7;Technology;3,01%
